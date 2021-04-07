@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use Illuminate\Support\Facades\App;
 
 /*
 |--------------------------------------------------------------------------
@@ -15,4 +16,14 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
     return view('welcome');
+});
+
+Route::get('/test', function () {
+    App::setlocale('lt');
+    return view('main');
+});
+
+Route::get('/test/{lang}', function ($lang) {
+    App::setlocale($lang);
+    return view('main');
 });
