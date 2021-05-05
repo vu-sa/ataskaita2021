@@ -5,6 +5,7 @@
 
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
         <style>
 .dropbtn {
   background-color: #BD2835;
@@ -20,6 +21,7 @@
   margin: 10px;
   border-radius: 10px;
 }
+
 
 .dropdown {
   position: fixed;
@@ -92,10 +94,19 @@
     
 
         <div class="container-lg" >
-            <main class="page-content col-xl-9 flex-shrink-0" style="margin-top: 3em" id="content">
+            <main class="page-content col-xl-9 flex-shrink-0" style= stylesheet id="content">
+                <br>
+                @include('texts.sveikinimas')
+                <hr>
                 @include('texts.veiklos_principai')
                 <hr>
                 @include('texts.MVP')
+                <hr>
+                @include('texts.kokybiskos')
+                <hr>
+                @include('texts.stipri')
+                <hr>
+                @include('texts.darni')
                 <hr>
                 @include('texts.draugai')
                 <hr>

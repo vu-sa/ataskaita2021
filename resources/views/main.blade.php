@@ -20,12 +20,4 @@
             }
         </style>
     </head>
-    <body>
-        <h1>
-            @lang('ataskaita.test')
-        </h1>
-        <p>
-            @lang('ataskaita.test2')
-        </p>
-    </body>
 </html>

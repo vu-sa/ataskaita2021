@@ -1,5 +1,6 @@
 <section id="mvp">
-    <h1>VU SA 2020–2021 metų veiklos plano įgyvendinimas </h1>
+    <p style="font-size: 50px; text-align: center;"><b>
+    VU SA 2020–2021 metų veiklos plano įgyvendinimas</b></p>
     <p>
         VU SA 2020–2021 metų veiklos plane nurodomi pagrindiniai šių metų tikslai ir uždaviniai. 
         Planas yra skirtas numatyti VU SA veiklos prioritetus, 
