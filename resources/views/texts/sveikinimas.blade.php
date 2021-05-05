@@ -1,4 +1,5 @@
 
+<section id="sveikinimai">
 <p style="font-size: 50px; text-align: center;"><b>Sveikinimai</b></p>
 @include('texts.sveikinimai.prezidentas')
 @include('texts.sveikinimai.smsm_ministre')
@@ -11,3 +12,4 @@
 @include('texts.sveikinimai.zef')
 @include('texts.sveikinimai.aepk')
 @include('texts.sveikinimai.skvc')
+</section>

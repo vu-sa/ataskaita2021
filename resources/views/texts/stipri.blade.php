@@ -22,7 +22,7 @@ th, td {
 }
 </style>
 </head>
-<section id="mvp">
+<section id="savivalda">
     <p style="font-size: 50px; text-align: center;"><b>
     Stipri organizacija</b></p>
     

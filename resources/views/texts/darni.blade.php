@@ -8,6 +8,7 @@
 }
 </style>
 </head>
+<section id="bendruomene">
 <p style="font-size: 50px; text-align: center;"><b>
 Bendruomenę buriantys renginiai</b></p>
 <p>Bendruomeniškumo puoselėjimas bei studentų integracija išlieka svarbiu Vilniaus universiteto Studentų atstovybės veiklos prioritetu. Jau kelerius metus iš eilės VU SA aktyviai rūpinasi socialinių–akademinių ir bendruomeninių renginių pasiūla, stiprina ir plečia projektus, klubus ir programas, kurie yra atviri visiems VU bendruomenės nariams. Taip VU SA skatina darnią, atvirą ir universitetines tradicijas puoselėjančią bendruomenę. </p>
@@ -425,3 +426,4 @@ buvo paminėtas apie 40 kartų.
 </div>
 <br>
 <br>
+</section>

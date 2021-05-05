@@ -76,12 +76,12 @@
         <div class="dropdown" style="float:left;">
         <button class="dropbtn">Menu</button>
         <div class="dropdown-content" style="left:0;">
-            <a href="#">Sveikinimai</a>
+            <a href="#sveikinimai">Sveikinimai</a>
             <a href="#veiklos-principai">Veiklos principai</a>
             <a href="#mvp">MVP</a>
-            <a href="#">Atstovavimas </a>
-            <a href="#">Savivalda </a>
-            <a href="#">Bendruomenė </a>
+            <a href="#atstovavimas">Atstovavimas </a>
+            <a href="#savivalda">Savivalda </a>
+            <a href="#bendruomene">Bendruomenė </a>
             <a href="#">Padėka </a>
         </div>
     </div>
@@ -94,7 +94,7 @@
     
 
         <div class="container-lg" >
-            <main class="page-content col-xl-9 flex-shrink-0" style= stylesheet id="content">
+            <main class="page-content col-xl-12 flex-shrink-0" style= stylesheet id="content">
                 <br>
                 @include('texts.sveikinimas')
                 <hr>

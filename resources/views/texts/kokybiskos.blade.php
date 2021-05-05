@@ -1,4 +1,4 @@
-<section id="kokybiskos">
+<section id="atstovavimas">
     <p style="font-size: 50px; text-align: center;"><b>
     Kokybiškos studijos ir joms pritaikyta aplinka</b></p>
     <h1 style="text-align: center;"> <b> Atstovavimas nacionaliniu lygmeniu </b> </h1>
