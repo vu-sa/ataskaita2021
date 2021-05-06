@@ -99,7 +99,7 @@
 
 
     
-<img src="/img/padeka/mif1.png" alt="VU SA MIF" style="width:100%">
+<img src="/img/padeka/mif1_en.png" alt="VU SA MIF" style="width:100%">
   </div>
 </div>
 

@@ -99,7 +99,7 @@
 
 
     
-<img src="/img/padeka/sa.png" alt="VU SA ŠA" style="width:100%">
+<img src="/img/padeka/sa_en.png" alt="VU SA ŠA" style="width:100%">
   </div>
 </div>
 

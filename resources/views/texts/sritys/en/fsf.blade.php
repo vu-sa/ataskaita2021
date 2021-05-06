@@ -99,7 +99,7 @@
 
 
     
-<img src="/img/padeka/fsf.png" alt="VU SA FSF" style="width:100%">
+<img src="/img/padeka/fsf_en.png" alt="VU SA FSF" style="width:100%">
   </div>
 </div>
 

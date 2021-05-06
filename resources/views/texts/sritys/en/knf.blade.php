@@ -99,7 +99,7 @@
 
 
     
-<img src="/img/padeka/knf.png" alt="VU SA KNF" style="width:100%">
+<img src="/img/padeka/knf_en.png" alt="VU SA KNF" style="width:100%">
   </div>
 </div>
 

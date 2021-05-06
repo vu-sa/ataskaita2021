@@ -117,15 +117,15 @@ This year's event VU Career Days 2021 took place on May 3rd-7th in online space.
 
 
 
-<h3 style="text-align: left;"><i><strong>Kuratorių programa </strong></i></h3>
-<p><i>Ataskaitiniu laikotarpiu programos veiklą koordinavo Evaldas Matijošaitis. </i></p>
+<h3 style="text-align: left;"><i><strong>Mentor program </strong></i></h3>
+<p><i>During the reference period, the activities of the program were coordinated by Evaldas Matijošaitis. </i></p>
 <p>
-<i>Kuratorių programa </i>– nuo 2000 metų VU SA vykdoma programa, skirta efektyviai integruoti pirmo kurso studentus į Universiteto bendruomenę bei supažindinti su studijų tvarka. Šios programos dalyviai – kuratoriai – specialius mokymus išklausę vyresnių kursų studentai, padedantys savo kuruojamos grupės studentams integracijos procese.
-</p>
-<i>Kuratorių programa</i> šiais metais praplėtė savo gretas ir surinko virš 200 kuratorių bakalauro studijų programų studentams, paskyrė po kuratorių pirmo kurso magistro studijų pakopos studentams bei individualiųjų studijų kuratorių. Taigi, specifinius mokymus praėję kuratoriai (mentoriai) padėjo įsilieti į Vilniaus universitetą ir studentams iš užsienio.  
+The mentors program is a program implemented by VU SA since 2000, designed to effectively integrate first-year students into the University community and to acquaint them with the study procedure. The participants of this program - mentors - are senior students who have received special training to help the students of their supervised group in the integration process. 
+</p><p>
+The mentors program has expanded its ranks this year to include over 200 tutors for undergraduate students, a first-time mentor for first-year master’s students, and mentor for individual studies. Thus, mentors who had completed specific trainings helped students from abroad to join Vilnius University. 
 </p>
 <p>
-Ateinančius mokslo metus programa sutiks pakitusi – išgryninta integracijos proceso koordinatoriaus <i>(ex kuratorių koordinatoriaus)</i> veikla ir pareigos padalinyje, apibrėžtos kuratorių kompetencijos, atsakomybės bei kelias būnant VU SA nariu, taip pat, skirtingose studentų grupėse, įvertintos gerosios renginių bei kitų iniciatyvų patirtys, kurias kuratoriai galėtų taikyti vykdomoje veikloje
+The program will come with some changes in the next academic year - the activities and responsibilities of the integration process coordinator (ex-tutor coordinator) have been refined, the competencies, responsibilities and path of being a member of VU SR have been defined, as well as could be applied in ongoing activities. 
 </p>
 <div class="image">
 <img src="/img/pkp_logo/Kuratorius-VUSA-tamsus.png" alt="kuratoriu logo" style="width:50%;">

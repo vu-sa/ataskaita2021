@@ -99,7 +99,7 @@
 
 
     
-<img src="/img/padeka/filf.png" alt="VU SA FILF" style="width:100%">
+<img src="/img/padeka/filf_en.png" alt="VU SA FILF" style="width:100%">
   </div>
 </div>
 

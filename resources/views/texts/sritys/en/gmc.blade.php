@@ -99,7 +99,7 @@
 
 
     
-<img src="/img/padeka/gmc.png" alt="VU SA GMC" style="width:100%">
+<img src="/img/padeka/gmc_en.png" alt="VU SA GMC" style="width:100%">
   </div>
 </div>
 

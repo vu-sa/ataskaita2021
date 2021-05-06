@@ -99,7 +99,7 @@
 
 
     
-<img src="/img/padeka/tf.png" alt="VU SA TF" style="width:100%">
+<img src="/img/padeka/tf_en.png" alt="VU SA TF" style="width:100%">
   </div>
 </div>
 
