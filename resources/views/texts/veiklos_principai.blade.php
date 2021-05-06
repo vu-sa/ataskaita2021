@@ -37,8 +37,15 @@
         Šiuo metu VU SA vienija apie 1 000 narių. 
         </p>
         <!--</div>
-        
         </div>-->
+        <p><strong>VU SA:</strong><p>
+        <ul>
+            <li>atstovauja studentams – gina studentų teises Universiteto valdymo organuose ir nacionaliniu lygmeniu; </li>
+            <li>prisideda prie studijų proceso tobulinimo Universitete, yra visų svarbiausių Vilniaus universiteto valdymo institucijų dalis; </li>
+            <li>rūpinasi socialine gerove – užtikrina patogią ir studentams pritaikytą aplinką, rūpinasi studentų integracija, dalyvauja skirstant stipendijas;  </li>
+            <li>organizuoja turiningą laisvalaikį; </li>
+            <li>skleidžia informaciją – rūpinasi, kad visos svarbiausios naujienos pasiektų studentus.  </li>
+        </ul>
     </section>
 
 

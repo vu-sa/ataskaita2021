@@ -79,7 +79,7 @@
     <span class="close8">&times;</span>
     <p>Mielas (-a) studente, </p>
     <p>savo atida ir reiklumu energingai prisidedi prie studentų interesų atstovavimo skatinant užtikrinti studijų kokybę savo universitete. Studijų kokybė apima daug sudedamųjų, kurių viena sietina ir su akademinės etikos kaip žmogaus teisių puoselėjimu. Nuosekliai puoselėjant akademinę etiką įvairiomis studijų sąlygomis svarbu stiprinti iniciatyvumą, veiklumą ir ryžtingumą – svarbiausia, nesustoti pusiaukelėje. Kartu kūrėme Akademinės etikos kodeksų rengimo, priėmimo ir įgyvendinimo rekomendacijas, dalijomės patirtimis ir įžvalgomis, ieškojome pažangių sprendimų – neabejotina, prisidedi prie reikšmingų Lietuvos studijų ir mokslo sistemos pokyčių. 
-    <br>Vertindama Tavo indėlį kviečiu sėkmingai tęsti pradėtus darbus ir išlikti atviru (-a) naujoms galimybėms. </p>
+    <br>Vertindama Tavo indėlį kviečiu sėkmingai tęsti pradėtus darbus ir išlikti atviru(-a) naujoms galimybėms. </p>
     <p><strong>V</strong>ieningai <strong>U</strong>ž <strong>S</strong>tudentų <strong>A</strong>teitį! </p>
     <p>Akademinės etikos ir procedūrų kontrolierė <br>Dr. Loreta Tauginienė </p>
   </div>

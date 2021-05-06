@@ -77,7 +77,7 @@
   <!-- Modal content -->
   <div class="modal-content">
     <span class="close6">&times;</span>
-    <p><strong>Mieli studentai, kolegos, </strong> </p>
+    <p>Mieli studentai, kolegos,</p>
     <p>džiugu matyti, kad Jūsų dėka mūsų senasis <i>Alma Mater</i> savo 442-ąjį gimtadienį pasitiko jaunas ir gyvybingas, nenustojantis augti ir keistis, įprasminantis praeitį ir žvelgiantis į ateitį. </p>
     <p>Nors ateitį nuspėti sunku, tyrimai rodo, kad 65 procentai šiandieninių pirmaklasių darbuosis funkcijose ir pareigybėse, kurių pavadinimai šiandien dar nė neegzistuoja. Naujoji informacinė revoliucija žada transformuoti tokias, mūsų supratimu, intelektualias amžinas profesijas kaip gydytojas, teisininkas, ar finansininkas. Atėjus į darbo vietas dirbtiniam intelektui mums teks pasikeisti. Jau dabar, siekiant efektyvumo, darbuotojų funkcijos didelėse kompanijose dažnai yra siaurai specializuotos, todėl nuolat rizikuojame vieną dieną „pralošti“ savo žmogiškąjį pranašumą dirbtiniam intelektui. Todėl būsimiems darbuotojams reikės ne tik konkrečių specialybės žinių, bet ir išlavintų socialinių kompetencijų: komunikacijos, kūrybingumo, bendradarbiavimo ir kritinio mąstymo, bus reikalingi refleksijos (arba mąstymo apie mąstymą) gebėjimai ir tam tikra pasaulėžiūra, nukeipta į nuolatinį mokymąsi bei augimą. </p>
     <p>Esu įsitikinusi, kad Universiteto Studentų organizacija yra kaip tik ta vieta, kurioje galima įgyti visus šiuos gebėjimus ir kompetencijas, išmėginti ir realizuoti save prasmingoje veikloje ir taip pasirengti gyvenimui dirbtinio intelekto amžiuje. </p>

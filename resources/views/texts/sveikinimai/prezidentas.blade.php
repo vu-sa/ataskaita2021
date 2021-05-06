@@ -84,7 +84,7 @@
     <p>Šiemet gyvenome ne tik teikdami siūlymus, bet ir priimdami naujus narius į bendruomenę. Tokiomis neįprastomis sąlygomis įvyko Šiaulių universiteto prijungimo prie Vilniaus universiteto žingsnis, po kurio buvo įsteigtas ir 15-asis Studentų atstovybės padalinys – VU SA Šiaulių akademijoje. </p>
     <p>Mums, kaip VU SA, naujo padalinio įsteigimas yra svarbus studentų atstovavimo kultūrų susijungimo ženklas, kuris puoselės tradicijas bei leis kurti aktyvų studentišką judėjimą trijuose Lietuvos miestuose – Vilniuje, Kaune ir Šiauliuose. </p>
     <p>Negana to, labai džiaugiuosi, kad tampame imlesni įvairiems pokyčiams organizacijoje, kurie, viliuosi, ateityje įgalins studentus dar savarankiškiau pasiekti tikslų ir formuos modernų, atvirą Universitetą bei Studentą. </p>
-    <p>Vieningai Už Studentų Ateitį! </p>
+    <p><strong>V</strong>ieningai <strong>U</strong>ž <strong>S</strong>tudentų <strong>A</strong>teitį! </p>
     <p>VU SA Prezidentas </p>
     <p>Justas Kvedaravičius</p>
   </div>
