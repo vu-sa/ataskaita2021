@@ -26,13 +26,13 @@ th, td {
     <p style="font-size: 50px; text-align: center;"><b>
     Stipri organizacija</b></p>
     
-    <h3 style="text-align: center;"><i>VU SA Projektai</i></h3>
+    <h3 style="text-align: center;">VU SA Projektai</h3>
     <p>Ataskaitiniu laikotarpiu VU SA įgyvendino 2 projektus, abiejų projektų įgyvendinimas vis dar tęsiasi. Taip pat buvo pateiktos 2 projektų paraiškos, dėl abiejų dar laukiama vertinimo komisijos galutinio sprendimo.</p>
     <p>Šiuo metu iš Valstybinio studijų fondo laukiama atsakymo dėl projektų „Studentų finansinių iniciatyvų įgalinimas per finansinio raštingumo kompetencijų kėlimą“ ir „Studentų įsitraukimo į akademinės etikos puoselėjimą universitetinėje bendruomenėje didinimas“ vertinimo. </p>
     <p>Drauge su Žinių ekonomikos forumu, Lietuvos jaunųjų mokslininkų sąjunga ir Šiaulių universiteto Studentų atstovybe pradėtas vykdyti Vidaus reikalų ministerijos projektas, kurio metu stiprinami projekto partnerių advokacijos gebėjimai švietimo ir jo sisteminimo srityse, dalyvavimo viešojo valdymo procesuose kokybę ir mastą. Per šiuos metus projekto tikslams pasiekti buvo paruoštos 3 apklausos studentams, apimančios skirtingas jų gyvenimo sritis. </p>
     <p>Iš Europos Sąjungos struktūrinių fondų gautas finansavimas ECSTRA projektui, kurio tikslas yra skatinti studentų saviraišką, neformalias veiklas ir jose neformaliu būdu įgytas kompetencijas. Per šiuos metus įgyvendinant projektą buvo parengta naujų studentiškų iniciatyvų įsikūrimo struktūra bei vadovų gidas, kuris bus skirtas visiems organizacijoje vadovaujančias pareigas užimantiems asmenis. <p>
 
-    <h2 style="text-align: center;"><strong>Institucinis stiprinimas</strong></h2>
+    <h3 style="text-align: center;">Institucinis stiprinimas</h2>
     <p>Šiais metais buvo organizuoti 25 mokymai, kuriuose dalyvavo apie 750 dalyvių. Pagrindinės temos, į kurias buvo gilinamasi mokymų metu: </p>
     <ul>
         <li>organizacijos strategija, struktūra ir įvaizdis; </li>
@@ -40,7 +40,7 @@ th, td {
         <li>padalinių dienų organizavimas, sąmatų sudarymas, sričių bendradarbiavimas; </li>
         <li>darbas komandoje nuotoliniu būdu, atsakomybės svarbos komunikavimas bei pareigybių išgryninimas. </li>
     </ul>
-    <h3 style="text-align: center;"><i>Žmogiškųjų išteklių valdymas</i></h3>
+    <h3 style="text-align: center;">Žmogiškųjų išteklių valdymas</h3>
     <p>Šiais metais ir toliau buvo tęsiamas sistemingas darbas su žmogiškaisiais ištekliais:</p>
     <ul>
         <li>vasaros laikotarpiu pirmą kartą vyko bendri sričių planavimai pagal vasaros Biuro-Tarybos išvažiavimo metu išskirtas svarbiausias problemas; </li>

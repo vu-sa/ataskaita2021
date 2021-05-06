@@ -54,17 +54,15 @@
 
 .showcase{
   background-image:url('/img/MAIN_COVER.png');
-  background-size:contain;
+  background-size:cover;
   background-position:center top;
-  width: 100%;
-  height:120vh;
+  height:100vh;
   background-repeat: no-repeat;
   display:flex;
   flex-direction:column;
   justify-content:center;
   align-items:center;
   text-align:center;
-  position: relative;
 }
 
 
@@ -79,13 +77,14 @@
         <div class="dropdown" style="float:left;">
         <button class="dropbtn">Menu</button>
         <div class="dropdown-content" style="left:0;">
-            <a href="#sveikinimai">Sveikinimai</a>
-            <a href="#veiklos-principai">Veiklos principai</a>
-            <a href="#mvp">MVP</a>
-            <a href="#atstovavimas">Atstovavimas </a>
-            <a href="#savivalda">Savivalda </a>
-            <a href="#bendruomene">Bendruomenė </a>
-            <a href="#padeka">Padėka</a>
+            <a href="#sveikinimai">Congratulations</a>
+            <a href="#veiklos-principai">Principles of Activity</a>
+            <a href="#mvp">YAP</a>
+            <a href="#atstovavimas">Representation </a>
+            <a href="#savivalda">Self-government </a>
+            <a href="#bendruomene">Community </a>
+            <a href="#padeka">Acknowledgments</a>
+            <a href="./">LT</a>
         </div>
     </div>
 
@@ -98,10 +97,22 @@
     
         <div lang="fr" class="container-lg" >
             <main class="page-content col-xl-12 flex-shrink-0" style= stylesheet id="content">
-                <br><br>
-                @include('texts.sritys')
+            <br>
+                @include('texts.sveikinimas_en')
                 <hr>
-                @include('texts.draugai')
+                @include('texts.veiklos_principai_en')
+                <hr>
+                @include('texts.MVP_en')
+                <hr>
+                @include('texts.kokybiskos_en')
+                <hr>
+                @include('texts.stipri_en')
+                <hr>
+                @include('texts.darni_en')
+                <hr>
+                @include('texts.sritys_en')
+                <hr>
+                @include('texts.draugai_en')
                 <hr>
             </main>
         </div>

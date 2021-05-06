@@ -186,9 +186,7 @@ vietiniams studentams išmokti užsienio kalbos bendraujant su VU užsienio stud
 <p>
 <i>Vilniaus universiteto Karjeros dienos</i> – VU SA projektas, leidžiantis studentams susipažinti su potencialiais darbdaviais, užmegzti kontaktus ir savarankiškai pradėti karjeros kelią. Projektu siekiama padėti studentams įsitvirtinti darbo rinkoje ir tapti paklausiais savo srities specialistais. 
 </p>
-<p>Kaip svarbiausias klubo veiklas šiais metais galima išskirti žurnalo 
-<i>Progressus</i> išleidimą ir organizuotus nuotolinių renginių ciklus. 
-</p>
+
 <p>
 Šiais metais organizuotas renginys <i>VU Karjeros dienos 2021</i> vyko gegužės 3-7 d. 
 virtualioje erdvėje. Surasta 50 įmonių ir finansiniai rėmėjai, kurių 13 įsitraukė 

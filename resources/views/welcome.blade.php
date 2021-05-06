@@ -54,17 +54,15 @@
 
 .showcase{
   background-image:url('/img/MAIN_COVER.png');
-  background-size:contain;
+  background-size:cover;
   background-position:center top;
-  width: 100%;
-  height:120vh;
+  height:100vh;
   background-repeat: no-repeat;
   display:flex;
   flex-direction:column;
   justify-content:center;
   align-items:center;
   text-align:center;
-  position: relative;
 }
 
 
@@ -86,6 +84,7 @@
             <a href="#savivalda">Savivalda </a>
             <a href="#bendruomene">Bendruomenė </a>
             <a href="#padeka">Padėka</a>
+            <a href="en">EN</a>
         </div>
     </div>
 
