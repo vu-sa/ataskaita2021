@@ -97,7 +97,7 @@ renginys Atverk savo spintą, į kurį kviesti keli stiliumi besidomintys LGBT+
 bendruomenės asmenys. 
 </p>
 <div class="image">
-<img src="/img/pkp_logo/Be etikečių logo.png" alt="be etikeciu logo" style="width:50%;">
+<img src="/img/pkp_logo/Be etikečių logo.jpg" alt="be etikeciu logo" style="width:50%;">
 </div>
 
 
@@ -122,7 +122,9 @@ siekiant padaryti ją labiau aktualią ir naudingą studentams. Diskusijų metu 
 programos veiklos kryptis: atsiskaitymų stebėjimas, studentų švietimas bei akademinės etikos 
 kultūros diegimas Universitete. 
 </p>
-
+<div class="image">
+<img src="/img/pkp_logo/saziningai.png" alt="saziningai.png" style="width:50%;">
+</div>
 
 <br>
 <br>
@@ -231,6 +233,9 @@ Labdaros ir paramos fondas <i>Ateičiai</i> ataskaitiniu laikotarpiu viešin
 <p>
 Labdaros ir paramos fondo <i>Ateičiai</i> veikla yra socialiai atsakinga bei kurianti kapitalą Vilniaus universiteto studentų gerovės labui. </p>
 </p>
+<div class="image">
+<img src="/img/pkp_logo/atributika.jpg" alt="atributika.jpg" style="width:30%;">
+</div>
 <br>
 <br>
 
@@ -265,6 +270,9 @@ užtikrinti jų sklandų įsiliejimą į didžiausios Lietuvoje akademinės bend
 Be to, tai priemonė, leidžianti pirmo kurso studentams supažindinti su jų teisėmis, pareigomis 
 bei svarbiausiais Universiteto procesais, kurių išmanymas ypač svarbus norint sėkmingai 
 pradėti ir baigti studijų metus.  </p>
+<div class="image">
+<img src="/img/pkp_logo/sgv.png" alt="sgv.png" style="width:50%;">
+</div>
 <br>
 <br>
 
