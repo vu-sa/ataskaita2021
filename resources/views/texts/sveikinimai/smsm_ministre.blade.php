@@ -77,16 +77,19 @@
   <!-- Modal content -->
   <div class="modal-content">
     <span class="close1">&times;</span>
-    <p>Labas, studente!</p>
-    <p>Po šių išskirtinių metų sveikinuosi su Tavimi virtualios knygelės pavidalu. Ateityje šiuos metus greičiausiai atsiminsime kaip visiškai nestandartinį gyvenimo laikotarpį, kuomet mokėmės gyventi kitokiomis sąlygomis. Visgi džiaugiuosi, kad išlipę iš bet kokių mums įprastų standartų sugebėjome Universitete ir apskritai pasaulyje įnešti naujų idėjų bei veikti reikšmingus darbus studentų labui! </p>
-    <p>Naujus studijų metus pasitikome įgyvendindami akademinių diskusijų festivalį „Ad astra“, kuris net karantino sąlygomis didino įsitraukimą į akademinę bendruomenę ir jos pagrindines veiklas. Studentų savivaldoje padėjome pradinius pamatus lygiavertiškam užsienio studentų įsitraukimui ir jų poreikių atstovavimui Studentų atstovybėje bei Universiteto valdymo organuose. </p>
-    <p>Šiuos metus taip pat skyrėme perteikti svarbiausiems studentų poreikiams. Džiaugiuosi, kad mūsų suformuluoti pasiūlymai naujosios Vyriausybės programai ir jos įgyvendinimo planui bei Universiteto strateginiam veiklos planui buvo išgirsti ir dabar formuoja tolimesnį Vyriausybės bei Universiteto veiksmų kelią ir prioritetus, kurie ilgainiui gerins studento gyvenimą. Šių prioritetų įgyvendinimas įgalins praturtinti studijas įsitraukiant į mokslinę veiklą, didins studijų ir bendrai aukštojo mokslo įtraukimą pažeidžiamiausių grupių studentams, gerins mūsų socialinę ir laisvalaikio infrastruktūrą, sudarys sąlygas įsidarbinti Universitete ir savarankiškai rinktis savo studijų kelią. </p>
-    <p>Šiemet gyvenome ne tik teikdami siūlymus, bet ir priimdami naujus narius į bendruomenę. Tokiomis neįprastomis sąlygomis įvyko Šiaulių universiteto prijungimo prie Vilniaus universiteto žingsnis, po kurio buvo įsteigtas ir 15-asis Studentų atstovybės padalinys – VU SA Šiaulių akademijoje. </p>
-    <p>Mums, kaip VU SA, naujo padalinio įsteigimas yra svarbus studentų atstovavimo kultūrų susijungimo ženklas, kuris puoselės tradicijas bei leis kurti aktyvų studentišką judėjimą trijuose Lietuvos miestuose – Vilniuje, Kaune ir Šiauliuose. </p>
-    <p>Negana to, labai džiaugiuosi, kad tampame imlesni įvairiems pokyčiams organizacijoje, kurie, viliuosi, ateityje įgalins studentus dar savarankiškiau pasiekti tikslų ir formuos modernų, atvirą Universitetą bei Studentą. </p>
-    <p>Vieningai Už Studentų Ateitį! </p>
-    <p>VU SA Prezidentas </p>
-    <p>BIM BAM</p>
+    <p>Mieli Vilniaus universiteto studentai, </p>
+    <p>džiugu, kad Vilniaus universiteto Studentų atstovybė yra nuolatinis aktyvus mūsų partneris siekiant bendrų tikslų – tarptautinės studijų kokybės ir gerų sąlygų studentijai. </p>
+    <p>Gyvename nepaprastu pandemijos nulemtų iššūkių laikotarpiu, pakeitusiu kiekvieno mūsų gyvenimus ir jūsų studijų sąlygas. Dabartinė situacija ne tik reikalauja kūrybiškai prisitaikyti prie pasikeitusių aplinkybių. Ji taip pat suteikia galimybę į anksčiau įprastus dalykus pažvelgti kitaip ir siekti naujų, geresnių sprendimų, daryti seniai pribrendusius pokyčius. </p>
+    <p>Jaunimas, o ypač studentai, visuomet buvo aktyvūs pokyčių nešėjai ir skatintojai, tad ir dabartinėje situacijoje džiaugiamės aktyviu Vilniaus universiteto dalyvavimu siekiant pokyčių studijų ir mokslo sistemoje. </p>
+    <p>Vienas iš XVIII-osios Vyriausybės prioritetų – tarptautinio lygio mokslas ir studijos. Siekiant tvarių sisteminių studijų pokyčių reikės kryptingų mūsų visų bendrų pastangų. </p>
+    <p>Tarptautinio lygio studijų kokybė reikalauja atsakingų investicijų. Be adekvataus aukštojo mokslo finansavimo sunku tikėtis geresnės studijų bazės, studentų gyvenimo sąlygų, aukštesnių dėstytojų ir mokslininkų atlyginimų, didesnių skatinamųjų stipendijų gerai besimokantiems. </p>
+    <p>Todėl vienas iš pirmųjų Vyriausybės darbų šiais metais buvo padidintas valstybės finansavimas studijoms. Nuo 2022 iki 2027 metų valstybė numato apie 35 mln. eurų aukštojo mokslo finansavimui padidinti. Ankstesnės finansuojamų studijų kainos tik iš dalies dengė realias studijų organizavimo išlaidas, o finansavimas, tenkantis vienai studijų vietai, buvo vienas mažiausių tarp EBPO šalių. </p>
+    <p>Šis didinimas – tik pirmas žingsnis, valstybės finansavimas turi ir toliau didėti, o studijų finansavimo principai keistis iš esmės. Tam subūrėme mokslo ir studijų institucijų finansavimo ir veiklos peržiūrėjimo darbo grupę, į kurią tarp visų suinteresuotų šalių įeina ir studentų atstovai. </p>
+    <p>Šiuo metu studentai iš valstybės gauna trijų rūšių finansinę paramą studijoms: ne tik valstybės finansuojamas studijų vietas, bet ir stipendijas bei lengvatines paskolas. Visų šių rūšių valstybės parama didėja. Nuo praėjusių metų liepos valstybė skiria dvigubai daugiau lėšų socialinėms stipendijoms, o nuo šių metų rugsėjo lėšos skatinamosioms stipendijoms išaugs dešimtadaliu. </p>
+    <p>2020 m. pabaigoje išplėsta paramos besirenkantiems mokamas studijas sistema – pakoreguota valstybės remiamų paskolų teikimo tvarka, kurioje atsižvelgta ir į studentų pasiūlymus: gerinamos paskolos grąžinimo sąlygos, nuo 2022 m. didės maksimali galima paskolos suma tiek studijoms, tiek pragyvenimui. </p>
+    <p>Visi šie pokyčiai skatina veržliai eiti į priekį. Tad kviečiu jus ir toliau taip pat aktyviai ir atsakingai dalyvauti tiek keliant probleminius klausimus dėl kokybiškų studijų ir jų sąlygų, tiek ieškant geriausių sprendimų jiems spręsti. </p>
+    <p>Tikiu, kad pastaruoju metu atlikti ir toliau daromi žingsniai sudarys tvirtas prielaidas studijų kokybei ir prieinamumui, o pasiekti rezultatai įkvėps naujiems bendriems ambicingiems darbams. </p>
+    <p>Švietimo, mokslo ir sporto ministrė <br>Jurgita Šiugždinienė </p>
   </div>
 </div>
 

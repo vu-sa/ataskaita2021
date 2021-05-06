@@ -1,0 +1,18 @@
+<section id="padeka">
+                @include('texts.sritys.cb')
+                @include('texts.sritys.mif')
+                @include('texts.sritys.mf')
+                @include('texts.sritys.ff')
+                @include('texts.sritys.filf')
+                @include('texts.sritys.fsf')
+                @include('texts.sritys.chgf')
+                @include('texts.sritys.evaf')
+                @include('texts.sritys.gmc')
+                @include('texts.sritys.if')
+                @include('texts.sritys.kf')
+                @include('texts.sritys.knf')
+                @include('texts.sritys.sa')
+                @include('texts.sritys.tf')
+                @include('texts.sritys.tspmi')
+                @include('texts.sritys.vm')
+</section>

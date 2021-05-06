@@ -1,12 +1,12 @@
 <style>
 .column {
   float: left;
-  width: 35%;
+  width: 70%;
   padding: 10px;
 }
 .column2{
-  float: left;
-  width: 65%;
+  float: right;
+  width: 50%;
   padding: 10px;
 }
 
@@ -21,11 +21,11 @@
 
 <section id="apie-vusa" title="Apie VUSA">
     <p style="font-size: 50px; text-align: center;"><b>Veiklos principai</b></p>
-    <div class="row">
-    <div class="column2">
-        <img width="600" height=auto src="/img/VU-SA-schema-02.png">
+    <!--<div class="row">
+    <div class="column">
+        <img width= "100%" height=auto src="/img/VU-SA-schema-02.png">
         </div>
-  <div class="column">
+  <div class="column2">-->
     <h2>Trumpai apie VU SA</h2>
         <p><strong>Vilniaus universiteto Studentų atstovybė (VU SA)</strong>– seniausia ir didžiausia Lietuvoje ekspertinė švietimo organizacija, 
         atstovaujanti studentams Universitete ir už jo ribų, puoselėjanti universitetinę kultūrą ir kurianti palankiausias sąlygas 
@@ -36,9 +36,9 @@
         koordinuojantis padalinius ir PKP, bei Vilniaus universiteto Studentų savivaldos Alumni draugija. 
         Šiuo metu VU SA vienija apie 1 000 narių. 
         </p>
-        </div>
+        <!--</div>
         
-        </div>
+        </div>-->
     </section>
 
 

@@ -53,9 +53,10 @@
 }
 
 .showcase{
-  background-image:url('https://scontent.fvno2-1.fna.fbcdn.net/v/t1.6435-9/171456224_10158433942764285_4013812937424541020_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=340051&_nc_ohc=vVIKVJ5MPg0AX8RB7lm&_nc_ht=scontent.fvno2-1.fna&oh=1ec6a8b18f8e614bc6c2a7ad6ed15f3f&oe=609BEDC7');
+  background-image:url('/img/MAIN_COVER.png');
   background-size:cover;
   background-position:center;
+  width: 100%;
   height:100vh;
   display:flex;
   flex-direction:column;
@@ -82,7 +83,7 @@
             <a href="#atstovavimas">Atstovavimas </a>
             <a href="#savivalda">Savivalda </a>
             <a href="#bendruomene">Bendruomenė </a>
-            <a href="#">Padėka </a>
+            <a href="#padeka">Padėka</a>
         </div>
     </div>
 
@@ -92,8 +93,8 @@
     </div>
 
     
-
-        <div class="container-lg" >
+    
+        <div lang="fr" class="container-lg" >
             <main class="page-content col-xl-12 flex-shrink-0" style= stylesheet id="content">
                 <br>
                 @include('texts.sveikinimas')
@@ -107,6 +108,8 @@
                 @include('texts.stipri')
                 <hr>
                 @include('texts.darni')
+                <hr>
+                @include('texts.sritys')
                 <hr>
                 @include('texts.draugai')
                 <hr>
