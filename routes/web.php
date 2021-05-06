@@ -18,6 +18,11 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::get('/en', function () {
+    App::setlocale('e');
+    return view('en');
+});
+
 Route::get('/test', function () {
     App::setlocale('lt');
     return view('main');

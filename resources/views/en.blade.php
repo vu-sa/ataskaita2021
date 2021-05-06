@@ -98,19 +98,7 @@
     
         <div lang="fr" class="container-lg" >
             <main class="page-content col-xl-12 flex-shrink-0" style= stylesheet id="content">
-                <br>
-                @include('texts.sveikinimas')
-                <hr>
-                @include('texts.veiklos_principai')
-                <hr>
-                @include('texts.MVP')
-                <hr>
-                @include('texts.kokybiskos')
-                <hr>
-                @include('texts.stipri')
-                <hr>
-                @include('texts.darni')
-                <hr>
+                <br><br>
                 @include('texts.sritys')
                 <hr>
                 @include('texts.draugai')
