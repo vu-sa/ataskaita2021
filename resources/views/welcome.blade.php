@@ -79,7 +79,7 @@ hr {
     </head>
     <body>
         <div class="dropdown" style="float:left;">
-        <button class="dropbtn">Menu</button>
+        <button class="dropbtn">Meniu</button>
         <div class="dropdown-content" style="left:0;">
             <a href="#sveikinimai">Sveikinimai</a>
             <a href="#veiklos-principai">Veiklos principai</a>
