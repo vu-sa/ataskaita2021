@@ -70,7 +70,7 @@
 
 <!-- Trigger/Open The Modal -->
 <button id="myBtn5" class="myBtn">
-<img src="/img/sveikinimai/pociute.jpeg" alt="pociute.jpeg" style="width:100%">
+<img src="/img/sveikinimai/pociute.jpg" alt="pociute.jpg" style="width:100%">
 </button>
 <!-- The Modal -->
 <div id="myModal5" class="modal">
