@@ -77,7 +77,7 @@
   <!-- Modal content -->
   <div class="modal-content">
     <span class="close6">&times;</span>
-    <p><strong>Dear students and colleagues, </strong> </p>
+    <p>Dear students and colleagues, </p>
     <p>It is gratifying to see that, thanks to you, our old Alma Mater welcomed its 442nd birthday young and vibrant, never stopping to grow and change, making the past meaningful and looking to the future.  </p>
     <p>Although the future is difficult to predict, research shows that 65% of today‘s first-graders will work in functions and positions whose names do not yet exist today. The new information revolution promises to transform such intelligent eternal professions as physician, lawyer, or financier in our understanding. When it comes to jobs, artificial intelligence will have to change. Even now, the interests of efficiency, the functions of employees in large companies are often narrowly specialized, so we constantly risk one day „losing“ our human advantage to artificial intelligence. Therefore, future employees will need not only specific specialty knowledge, but also developed social competencies: communication, creativity, collaboration and critical thinking, reflection (or thinking about thinking) skills and a certain worldview translated into continuous learning and growth. </p>
     <p>I am convinced that the University Student Organization is just the place where you can acquire all these skills and competencies, try and realize yourself in a meaningful activities and thus prepare for life in the age of artificial intelligence. </p>
