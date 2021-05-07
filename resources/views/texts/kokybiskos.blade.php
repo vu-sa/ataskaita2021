@@ -461,7 +461,7 @@
     <br>
 
 
-    <h1 style="text-align: center;"> <b>Tarptautinis bendradarbiabimas</b> </h1>
+    <h1 style="text-align: center;"> <b>Tarptautinis bendradarbiavimas</b> </h1>
 
 
 

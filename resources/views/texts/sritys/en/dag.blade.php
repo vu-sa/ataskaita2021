@@ -87,7 +87,7 @@
 
 <!-- Trigger/Open The Modal -->
 <button id="myBtn170" class="myBtn">
-<img src="/img/vizualai/dag.png" alt="MART1397B.jpg" style="width:100%">
+<img src="/img/vizualai/dag.png" alt="MART1397B.jpg" style="width:50%">
 </button>
 <!-- The Modal -->
 <div id="myModal170" class="modal">

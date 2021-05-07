@@ -53,7 +53,7 @@
 }
 
 .showcase{
-  background-image:url('/img/MAIN_COVER.png');
+  background-image:url('/img/MAIN_COVER_en.png');
   background-size:cover;
   background-position:center top;
   height:100vh;
@@ -64,7 +64,9 @@
   align-items:center;
   text-align:center;
 }
-
+hr {
+  border-top: 10px solid #bd2835;
+}
 
 .dropdown-content a:hover {background-color: #f1f1f1;}
 .dropdown:hover .dropdown-content {display: block;}

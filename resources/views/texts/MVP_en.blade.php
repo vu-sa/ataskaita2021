@@ -1,4 +1,43 @@
+<style>
+progress {
+	display:inline-block;
+	width:380;
+	height:20px;
+	padding:10px 0 0 0;
+	margin:0;
+	background:none;
+	border: 0;
+	border-radius: 15px;
+	text-align: right;
+	position:relative;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 0.7em;
+}
+progress::-webkit-progress-bar {
+	height:11px;
+	width:300px;
+	margin:0 auto;
+	background-color: #CCC;
+	border-radius: 15px;
+}
+progress::-webkit-progress-value {
+	display:inline-block;
+	float:left;
+	height:11px;
+	margin:0px -50px 0 0;
+	background: #F70;
+	border-radius: 15px;
+}
+progress:after {
+	margin:-26px 0 200px -7px;
+	padding:0;
+	display:inline-block;
+	float:right;
+	content: attr(value) '%';
+}
+</style>
 <section id="mvp">
+<img src="/img/bendros/IMG_4076.jpg" alt=" " style="width:100%;display: block;margin-left: auto;margin-right: auto;"><br><br>
     <p style="font-size: 50px; text-align: center;text-shadow: 2px 2px 8px #bf9da0;"><b>
     VU SR 2020–2021 ANNUAL ACTIVITY PLAN IMPLEMENTATION </b></p>
     <p>
@@ -16,10 +55,10 @@ www.vusa.lt → Documents → Operating documents. </p>
         <h4><strong>Goal:</strong>July 1st 2021, according to the proposals submitted by VU SR, VU CAU strategically envisages measures to achieve study flexibility and an implementation plan is prepared by each VU SR CAU. </h4>
         <p><strong>How much has been achieved:</strong> This goal has fully or largely fulfilled two objectives, the result of which will be useful in the coming terms (an array of information on flexibility of studies has been compiled, which could be used in the future when implementing ideas of study flexibility and its communication guidelines that will help to systematically plan and carry out communication on the topic). Currently, two important objectives are still being carried out, the intermediary results of which allow to work more unitedly on the issues of flexibility of studies in the context of VU CAU strategic activity plans and at the level of CAU study management bodies (with the tools developed for that and the competencies of the student representatives working there). </p>
         <p><strong>Implementation of objectives:</strong>  <br>
-        <strong>Objective 1</strong> Implemented <br>
-        <strong>Objective 2</strong> Ongoing [40 %]<br> 
-        <strong>Objective 3</strong> Ongoing [80 %]<br> 
-        <strong>Objective 4</strong> Ongoing [50 %] 
+        <strong>Objective 1 </strong><progress id="progressBar" max="100" value="100"></progress><br>
+        <strong>Objective 2 </strong><progress id="progressBar" max="100" value="40"></progress><br>
+        <strong>Objective 3 </strong><progress id="progressBar" max="100" value="80"></progress><br>
+        <strong>Objective 4 </strong><progress id="progressBar" max="100" value="50"></progress>
     </p>
     <br>
     <p>
@@ -30,10 +69,10 @@ www.vusa.lt → Documents → Operating documents. </p>
         <p><strong>How much has been achieved:</strong>
         This goal has partially fulfilled three objectives that have helped to inform students and improve the quality of studies. An initiative for sharing distance learning experiences has been created – 3 webcasts have been released. A survey evaluating the distance learning experiences has been conducted, the results of which were presented to students in an article on VU SR website. At the suggestion of VU SR, the use of distance learning methods was evaluated in the selection of the best University lecturers, thus promoting the sharing of these experiences in the academic community. Besides, VU SR U teams provided timely feedback and improved the study process in their units in different ways. </p>
         <p><strong>Implementation of objectives:</strong>  <br>
-        <strong>Objective 1</strong> Ongoing [50 %]<br>
-        <strong>Objective 2</strong> Ongoing [50 %]<br> 
-        <strong>Objective 3</strong> Ongoing [50 %]<br> 
-        <strong>Objective 4</strong> Abandoned 
+        <strong>Objective 1 </strong><progress id="progressBar" max="100" value="50"></progress><br>
+        <strong>Objective 2 </strong><progress id="progressBar" max="100" value="50"></progress><br>
+        <strong>Objective 3 </strong><progress id="progressBar" max="100" value="50"></progress><br>
+        <strong>Objective 4 </strong><progress id="progressBar" max="100" value="0"></progress>
     </p>
     <br>
     <p>
@@ -43,9 +82,9 @@ www.vusa.lt → Documents → Operating documents. </p>
         <p><strong>How much has been achieved:</strong>
         To achieve the goal, a consulting working group was formed from the members of the VU SR Council, The VU SR Board, Institutional Strengthening Fund and alumni. The working group performed an analysis of good practices in other consulting institutions, refined the purpose and benefits of consulting at VU SR. In order to address the current problems in the consulting process, a new model of the consulting process has been developed. It has been presented to the organization and is planned to be further developed and have a general agreement reached. An analysis of IT opportunities for consulting was performed in order to discover convenient platforms for consulting and providing feedback. The essential competencies required for counsellors have been identified. 
         <p><strong>Implementation of objectives:</strong>  <br>
-        <strong>Objective 1</strong> Ongoing [80 %] <br>
-        <strong>Objective 2</strong> Ongoing [50 %]<br> 
-        <strong>Objective 3</strong> Ongoing [30 %]
+        <strong>Objective 1</strong> <progress id="progressBar" max="100" value="80"></progress><br>
+        <strong>Objective 2</strong> <progress id="progressBar" max="100" value="50"></progress><br>
+        <strong>Objective 3</strong>  <progress id="progressBar" max="100" value="30"></progress><br>
     </p>
     <br>
 
@@ -55,10 +94,10 @@ www.vusa.lt → Documents → Operating documents. </p>
         <p><strong>How much has been achieved:</strong>
         An internship for translation into English of the main documents regulating the activities of VU SR has been organized, the possibilities and needs for VU SR communication in two languages are refined. Agreements have been reached in cooperation with ESN Vilnius University in preparing mentors for students from abroad. The needs of different groups of students for integration, the activities of the integration process coordinators in the department and the place and path of curators in the organization have been refined. The curator program has been updated with curators of master students and foreign students. During the year, the concept of one-day camps and the division of responsibilities between the organizational affairs and the curator's coordinators were tested and evaluated. Two studies were carried out to evaluate the applied integration measures - an updated annual survey of freshmen integration and a survey of integration of foreign students.        
         <p><strong>Implementation of objectives:</strong>  <br>
-        <strong>Objective 1</strong> Ongoing [75 %] <br>
-        <strong>Objective 2</strong>  Ongoing [50 %]<br> 
-        <strong>Objective 3</strong>  Ongoing [75 %]<br> 
-        <strong>Objective 4</strong>  Implemented
+        </p><strong>Objective 1</strong> <progress id="progressBar" max="100" value="75"></progress><br>
+        <strong>Objective 2</strong> <progress id="progressBar" max="100" value="50"></progress><br>
+        <strong>Objective 3</strong> <progress id="progressBar" max="100" value="75"></progress><br>
+        <strong>Objective 4</strong>  <progress id="progressBar" max="100" value="100"></progress><br>
     </p>
     <br>
 
@@ -80,9 +119,9 @@ www.vusa.lt → Documents → Operating documents. </p>
         During the autumn semester, questionnaires were prepared for the presentation of feedback to the contact persons, which were filled in by the majority of the study groups. In the spring semester, focus groups were organized with students of the management and economics program. Good practices of VU and other foreign universities were analysed. </p>
         <p>A generalized data analysis was made and a list of economics and management program lecturers and their subjects was compiled, in which the taught material is not updated, active teaching methods involving students are not used. Recommendations were sent to the lecturers. This issue was discussed at the dean's office and VU SR EVAF agreed to have a wider discussion. </p>
         <p><strong>Implementation of objectives:</strong>  <br>
-        <strong>Objective 1</strong> Implemented <br>
-        <strong>Objective 2</strong>  Implemented [90 %]<br> 
-        <strong>Objective 3</strong>  Will be implemented
+        <strong>Objective 1</strong><progress id="progressBar" max="100" value="100"></progress><br>
+        <strong>Objective 2</strong> <progress id="progressBar" max="100" value="90"></progress><br>
+        <strong>Objective 3</strong> <progress id="progressBar" max="100" value="0"></progress><br>
     </p>
     <br>
 
@@ -93,9 +132,9 @@ www.vusa.lt → Documents → Operating documents. </p>
         <p><strong>How much has been achieved:</strong>
         An analysis of good practices in other units (VU) and universities (Lithuanian and foreign) was performed. Students were encouraged to provide and request feedback during the academic year. Questions about the teaching methods used were included in the collection of students' opinions. The problem-solving process was also adjusted to distance learning, and we encountered lecturers who, in turn, looked for ways to teach the subject more engaging the students. </p>
         <p><strong>Implementation of objectives:</strong>  <br>
-        <strong>Objective 1</strong>  Ongoing [85 %] <br>
-        <strong>Objective 2</strong>  Ongoing [90 %] <br> 
-        <strong>Objective 3</strong>  Ongoing [20 %] 
+        <strong>Objective 1</strong>  <progress id="progressBar" max="100" value="85"></progress><br>
+        <strong>Objective 2</strong>  <progress id="progressBar" max="100" value="90"></progress><br>
+        <strong>Objective 3</strong>  <progress id="progressBar" max="100" value="20"></progress><br>
     </p>
     <br>
 
@@ -106,11 +145,11 @@ www.vusa.lt → Documents → Operating documents. </p>
         <p><strong>How much has been achieved:</strong>
         An analysis of the best practices of foreign universities has been made and suggestions for improving the teaching methodology of teachers have been prepared. They are being prepared for discussion with the VU FF Vice-Dean for Studies. Besides, focus groups are currently being set up to find out the teaching methodologies used in all current subjects. 
         <p><strong>Implementation of objectives:</strong>  <br>
-        <strong>Objective 1</strong>  Implemented <br>
-        <strong>Objective 2</strong>  Ongoing [50 %] <br> 
-        <strong>Objective 3</strong>  Ongoing [60 %] <br> 
-        <strong>Objective 4</strong>  Bus Ongoing <br> 
-        <strong>Objective 5</strong>  Bus Ongoing
+        </p><strong>Objective 1</strong>  <progress id="progressBar" max="100" value="100"></progress><br>
+        <strong>Objective 2</strong>  <progress id="progressBar" max="100" value="50"></progress><br>
+        <strong>Objective 3</strong>  <progress id="progressBar" max="100" value="60"></progress><br>
+        <strong>Objective 4</strong>  <progress id="progressBar" max="100" value="0"></progress><br>
+        <strong>Objective 5</strong>  <progress id="progressBar" max="100" value="0"></progress><br>
     </p>
     <br>
 
@@ -120,10 +159,9 @@ www.vusa.lt → Documents → Operating documents. </p>
         </h4>
         <p><strong>How much has been achieved:</strong>
         The recommendations have been presented at VU KF College of Studies and are placed in the Covid-19 section of the VU KF page as recommendations and will be sent to lecturers. The organization of teacher training is ongoing, but is postponed to the end of April. Still, they will happen. The promotion of a culture of feedback is active - after all general meetings, feedback is requested and teachers are asked to ask for it. Another publication on this remains to be made public and the objective will be fulfilled. 
-        <p><strong>Implementation of objectives:</strong>  <br>
-        <strong>Objective 1</strong>  Implemented <br>
-        <strong>Objective 2</strong>  Ongoing [50 %] <br> 
-        <strong>Objective 3</strong>  Ongoing [90 %] 
+        </p><strong>Objective 1</strong>  <progress id="progressBar" max="100" value="100"></progress><br>
+        <strong>Objective 2</strong>  <progress id="progressBar" max="100" value="50"></progress><br>
+        <strong>Objective 3</strong> <progress id="progressBar" max="100" value="90"></progress><br>
     </p>
     <br>
 
@@ -141,9 +179,9 @@ www.vusa.lt → Documents → Operating documents. </p>
         </p><p>The work of student representatives in the committee with proposals and program analysis, discussions between SPC members and VU EVAF Dean's Office. 6 solutions proposed by the SPC were discussed at the College of Studies, a decision was made to reduce the number of branches of economics to 2 specializations: finance and economics. This change will ensure that a larger proportion of students will be able to choose the desired specialization. </p>
         <p>Comprehensive presentations of branches and procedures to students were ensured. </p>
         <p><strong>Implementation of objectives:</strong>  <br>
-        <strong>Objective 1</strong>  Implemented <br>
-        <strong>Objective 2</strong>  Implemented <br> 
-        <strong>Objective 3</strong>  Implemented 
+        <strong>Objective 1</strong>   <progress id="progressBar" max="100" value="100"></progress><br>
+        <strong>Objective 2</strong>   <progress id="progressBar" max="100" value="100"></progress><br>
+        <strong>Objective 3</strong>   <progress id="progressBar" max="100" value="100"></progress><br> 
     </p>
     <br>
 
@@ -153,11 +191,11 @@ www.vusa.lt → Documents → Operating documents. </p>
         </h4>
         <p><strong>How much has been achieved:</strong>
         Trainings for student representatives were organized, they were introduced to the existing problem. Student representatives organize focus groups or communicate with contact persons of study program groups on the assessment system issues, collect information. The problem was presented to the Vice-Dean for Studies and the Department of Studies. All that is left is to provide the Vice-Dean for Studies with a list of study program subjects in which this problem remained. 
-        <p><strong>Implementation of objectives:</strong>  <br><strong>Objective 1</strong>  Implemented <br>
-        <strong>Objective 2</strong>  Ongoing [85 %] <br> 
-        <strong>Objective 3</strong>  Implemented <br> 
-        <strong>Objective 4</strong>  Ongoing [85 %] <br>  
-        <strong>Objective 5</strong>  Bus Ongoing 
+        </p><strong>Objective 1</strong>   <progress id="progressBar" max="100" value="100"></progress><br>
+        <strong>Objective 2</strong>   <progress id="progressBar" max="100" value="85"></progress><br>
+        <strong>Objective 3</strong>   <progress id="progressBar" max="100" value="100"></progress><br>
+        <strong>Objective 4</strong>   <progress id="progressBar" max="100" value="85"></progress><br>
+        <strong>Objective 5</strong>  <progress id="progressBar" max="100" value="0"></progress><br>
     </p>
     <br>
 
@@ -167,9 +205,10 @@ www.vusa.lt → Documents → Operating documents. </p>
         </h4>
         <p><strong>How much has been achieved:</strong>
         VU MF Council adopted the regulations of the activities of SMVT, without which the network has been operating since its establishment. The draft regulations were shared with the students participating in the SMVT, who were able to provide comments and suggestions in the document. The comments were discussed during a call with SMVT members and Simona Kildiene. Student representatives also commented on the draft regulations. Adjusted draft regulations were forwarded to the Council, whose members submitted their comments. The document has been adjusted and the regulations governing the activities of the SMVT were approved by the Council on the 28th of December, 2020. 
-        <p><strong>Implementation of objectives:</strong>  <br><strong>Objective 1</strong> Ongoing [25 %] <br>
-        <strong>Objective 2</strong>  Implemented <br> 
-        <strong>Objective 3</strong>  Bus Ongoing 
+        <p><strong>Implementation of objectives:</strong> 
+        </p><strong>Objective 1</strong>  <progress id="progressBar" max="100" value="25"></progress><br>
+        <strong>Objective 2</strong>   <progress id="progressBar" max="100" value="100"></progress><br> 
+        <strong>Objective 3</strong>   <progress id="progressBar" max="100" value="0"></progress><br>
     </p>
     <br>
 
@@ -184,9 +223,9 @@ www.vusa.lt → Documents → Operating documents. </p>
         </h4>
         <p><strong>How much has been achieved:</strong>
         The analysis of foreign languages taught at VU IF was performed, lecturers and students were interviewed and the objectives of the modules were analysed, the whole analysis is uploaded to the VU SR archive. Representatives of the history program SPC and representatives of the VU IF Council were introduced to the analysis, the analysis was sent to the SPC members and a meeting was initiated to solve the problem. From the beginning of the term, new members of VU SR IF were introduced to this issue so that the problem would not be forgotten and its solution would continue.
-        <p><strong>Implementation of objectives:</strong>  <br><strong>Objective 1</strong> Implemented <br>
-        <strong>Objective 2</strong>  Ongoing [75 %]  <br> 
-        <strong>Objective 3</strong>  Ongoing [25 %] 
+        </p><strong>Objective 1</strong>  <progress id="progressBar" max="100" value="100"></progress><br>
+        <strong>Objective 2</strong>   <progress id="progressBar" max="100" value="75"></progress><br> 
+        <strong>Objective 3</strong>   <progress id="progressBar" max="100" value="25"></progress><br>
     </p>
     <br>
 
@@ -196,11 +235,10 @@ www.vusa.lt → Documents → Operating documents. </p>
         </h4>
         <p><strong>How much has been achieved:</strong>
         Students opinion on what electives they would like was gathered and a list was compiled based on survey results. The list was sent to the Vice-Dean for Studies and presented to all SPC Chairs. In the programs of the study fields of informatics, this initiative was successful and a description of the elective subject is developed. In this regard, support was received from the Department of Studies, the Vice-Dean for Studies and the Chair of the Information Systems Engineering Study Programs Committee. This issue was also raised by the dean in the council of the unit, possibly electives intended for everyone in one field of study will be included in the activity plan of the unit. From the students' survey, subjects were selected that could be told in one seminar and 2 lectures were organized with invited guests. The cycle of lectures is planned to be continued.
-        <p><strong>Implementation of objectives:</strong>  <br>
-        <strong>Objective 1</strong> Implemented <br>
-        <strong>Objective 2</strong>  Ongoing [50 %]  <br> 
-        <strong>Objective 3</strong>  Will be implemented   <br> 
-        <strong>Objective 4</strong>  Will be implemented 
+        </p><strong>Objective 1</strong>  <progress id="progressBar" max="100" value="100"></progress><br>
+        <strong>Objective 2</strong>   <progress id="progressBar" max="100" value="50"></progress><br>
+        <strong>Objective 3</strong>  <progress id="progressBar" max="100" value="0"></progress><br>
+        <strong>Objective 4</strong>   <progress id="progressBar" max="100" value="0"></progress><br>
     </p>
     <br>
 
@@ -210,11 +248,10 @@ www.vusa.lt → Documents → Operating documents. </p>
         </h4>
         <p><strong>How much has been achieved:</strong>
         It has been clarified which economic topics are discussed in the current VU TSPMI electives and in the policy and economics module; the student’s need for an elective subject of economics has been clarified (focus groups with master's and bachelor's degree students have been organized); suggestions for possible topics for the new elective were received from lecturers in the field of economics; a problem description was prepared, which was presented to the administration of the Institute and presented at the meeting of the Bachelor of Political Science SPC, where the decision to create a new elective subject in the field of economics was made by consensus; comments on the description of the new elective subject were provided on whether it met the needs of students; the presentation of the description of the elective subject at the SPC meeting is expected. 
-        <p><strong>Implementation of objectives:</strong>  <br>
-        <strong>Objective 1</strong> Implemented <br>
-        <strong>Objective 2</strong>  Implemented  <br> 
-        <strong>Objective 3</strong>  Ongoing [75 %]   <br> 
-        <strong>Objective 4</strong>  Will be implemented 
+        </p><strong>Objective 1</strong>  <progress id="progressBar" max="100" value="100"></progress><br>
+        <strong>Objective 2</strong>   <progress id="progressBar" max="100" value="100"></progress><br>
+        <strong>Objective 3</strong>   <progress id="progressBar" max="100" value="75"></progress><br>
+        <strong>Objective 4</strong>   <progress id="progressBar" max="100" value="0"></progress><br> 
     </p>
     <br>
 
@@ -225,10 +262,10 @@ www.vusa.lt → Documents → Operating documents. </p>
         <p><strong>How much has been achieved:</strong>
         A list of subject descriptions to be edited has been created, they have been analysed and problems have been specified.  During the coordinators' meeting, the general trends of the comments received were presented and the further progress of the case was reminded. The subject descriptions are divided amongst working groups, and reference points were formulated: I) to define the terms often used in the subject descriptions, such as: “active participation” and “independent research works”; II) to unify seminar evaluation criteria on the basis of existing good examples; III) to include a provision indicating the maximum possible point value of the student's actions during one seminar in the seminar evaluation criteria section of the subject descriptions. The prepared recommendations were sent to the most important bodies of VU TF responsible for the quality of studies - the vice-dean for studies (01/02/2021), the chairman of the SPC (04/02/2021), the chairman of the VU TF Council (20/02/2021). The issue is expected to be raised at the SPC meeting. 
         <p><strong>Implementation of objectives:</strong>  <br>
-        <strong>Objective 1</strong> Implemented <br>
-        <strong>Objective 2</strong> Implemented <br> 
-        <strong>Objective 3</strong> Ongoing [70 %]  <br> 
-        <strong>Objective 4</strong> Will be implemented
+        </p><strong>Objective 1</strong>  <progress id="progressBar" max="100" value="100"></progress><br>
+        <strong>Objective 2</strong>   <progress id="progressBar" max="100" value="100"></progress><br> 
+        <strong>Objective 3</strong>   <progress id="progressBar" max="100" value="70"></progress><br>
+        <strong>Objective 4</strong>   <progress id="progressBar" max="100" value="0"></progress><br>
     </p>
     <br>
 
@@ -244,10 +281,10 @@ www.vusa.lt → Documents → Operating documents. </p>
         <p><strong>How much has been achieved:</strong>
         The situation was analysed and students were interviewed. After presenting the results to the SPC, they undertook to update the procedures for the preparation, defence and evaluation of term papers, therefore no further action was taken.  
         <p><strong>Implementation of objectives:</strong>  <br>
-        <strong>Objective 1</strong> Implemented <br>
-        <strong>Objective 2</strong> Abandoned <br> 
-        <strong>Objective 3</strong> Abandoned <br> 
-        <strong>Objective 4</strong> Abandoned
+        </p><strong>Objective 1</strong>  <progress id="progressBar" max="100" value="100"></progress><br>
+        <strong>Objective 2</strong>   <progress id="progressBar" max="100" value="0"></progress><br>
+        <strong>Objective 3</strong>   <progress id="progressBar" max="100" value="0"></progress><br>
+        <strong>Objective 4</strong>   <progress id="progressBar" max="100" value="0"></progress><br>
     </p>
     <br>
 
@@ -258,9 +295,9 @@ www.vusa.lt → Documents → Operating documents. </p>
         <p><strong>How much has been achieved:</strong>
         The methodological instructions of VU IF and other CAU written works were analysed, students and lecturers were interviewed - the collected material was systematized and recommendations for their updating were written. The recommendations are uploaded to the VU SR archive. This issue was presented during the meeting of the VU IF Council, the renewal of methodological written works was approved. The recommendations of VU SR IF have been sent to the Vice-Dean for Academic Affairs and International Relations, as he is responsible for this work. Completion of the remaining work depends on the preparation and adoption of new methodological instructions for the written work.
         <p><strong>Implementation of objectives:</strong>  <br>
-        <strong>Objective 1</strong> Implemented <br>
-        <strong>Objective 2</strong>  Implemented  <br> 
-        <strong>Objective 3</strong>  Will be implemented
+        </p><strong>Objective 1</strong>  <progress id="progressBar" max="100" value="100"></progress><br>
+        <strong>Objective 2</strong>   <progress id="progressBar" max="100" value="100"></progress><br> 
+        <strong>Objective 3</strong>   <progress id="progressBar" max="100" value="0"></progress><br>
     </p>
     <br>
 
@@ -276,10 +313,10 @@ www.vusa.lt → Documents → Operating documents. </p>
         <p><strong>How much has been achieved:</strong>
         Information collected from Lithuanian and foreign universities. The help is provided by ARQUS Alliance of European Universities. Besides, information was gathered from online articles on the topic of independent laboratory work. The information was systematized. Based on the collected information, expectations for independent laboratory work were prepared. Expectations and ideas were discussed with the former Vice-Dean for Academic Affairs and the current Vice-Dean for Academic Affairs. Representatives of the SPC were informed about possible changes in the programs. Priority order of teachers has been established. A letter has been prepared inviting the relevant lecturers to join the implementation of the idea. During the quarantine period, the implementation was postponed to the autumn semester due to not having laboratory work. By the end of the spring semester, it will be agreed with the lecturers that the laboratory work will begin in the autumn semester.
         <p><strong>Implementation of objectives:</strong>  <br>
-        <strong>Objective 1</strong> Implemented <br>
-        <strong>Objective 2</strong>  Ongoing [50 %]  <br> 
-        <strong>Objective 3</strong>  Will be implemented  <br> 
-        <strong>Objective 4</strong>  Will be implemented
+        </p><strong>Objective 1</strong>  <progress id="progressBar" max="100" value="100"></progress><br>
+        <strong>Objective 2</strong>   <progress id="progressBar" max="100" value="50"></progress><br>
+        <strong>Objective 3</strong>   <progress id="progressBar" max="100" value="0"></progress><br>
+        <strong>Objective 4</strong>   <progress id="progressBar" max="100" value="0"></progress><br>
     </p>
     <br>
 
@@ -290,8 +327,8 @@ www.vusa.lt → Documents → Operating documents. </p>
         <p><strong>How much has been achieved:</strong>
         A survey of academic ethics was carried out, during which students were interviewed and thanks to which the violations of ethics committed by the lecturers were identified, a considerable number of specific examples of cases were obtained. Lecturers were also interviewed on the topic of academic ethics. The survey revealed which cases of violation of academic ethics have been observed and their opinion on what actions should be taken to prevent the recurrence of violations. The systematic data of the student survey were presented to the dean and vice-dean, and it was discussed what actions should be taken to solve the problems of academic ethics. The data was then presented to the SPC Chairs. Taking into account the data of the student survey, topics related to academic ethics and relevant to students ethics were prepared and a discussion on the topic of academic ethics was organized in cooperation with VU SR VM. Once the results of the lecturers’ survey on academic ethics have been systematized, another event / activity on this topic will be organized. 
         <p><strong>Implementation of objectives:</strong>  <br>
-        <strong>Objective 1</strong> Will be implemented <br>
-        <strong>Objective 2</strong>  Ongoing [60 %]
+        </p><strong>Objective 1</strong>  <progress id="progressBar" max="100" value="0"></progress><br>
+        <strong>Objective 2</strong>   <progress id="progressBar" max="100" value="60"></progress><br>
     </p>
     <br>
 
@@ -304,10 +341,10 @@ www.vusa.lt → Documents → Operating documents. </p>
         <p><strong>How much has been achieved:</strong>
         Students were interviewed, VU GMC administration was contacted. Based on the received data, a list of internships outside VU GMC was compiled, and organizations providing internships were contacted. The list has been supplemented with detailed information, and a plan for publicizing and updating the information is currently being prepared. 
         <p><strong>Implementation of objectives:</strong>  <br>
-        <strong>Objective 1</strong> Implemented <br>
-        <strong>Objective 2</strong> Implemented <br>
-        <strong>Objective 3</strong> Implemented <br>
-        <strong>Objective 4</strong> Implemented 
+        </p><strong>Objective 1</strong> <progress id="progressBar" max="100" value="100"></progress><br>
+        <strong>Objective 2</strong>  <progress id="progressBar" max="100" value="100"></progress><br>
+        <strong>Objective 3</strong>  <progress id="progressBar" max="100" value="100"></progress><br>
+        <strong>Objective 4</strong>  <progress id="progressBar" max="100" value="100"></progress><br>
     </p>
     <br>
 
@@ -318,10 +355,10 @@ www.vusa.lt → Documents → Operating documents. </p>
         <p><strong>How much has been achieved:</strong>
         During the period of implementation, the process of achieving this goal has changed several times, and the goal has been adjusted according to the circumstances. We started with the goal of ensuring equal opportunities for VU KnF students to choose general university studies (GUS) subjects (modules) in 2020-2021. As the epidemiological situation allowed us to look at it in a long-term perspective, we set the goal of ensuring options in the course of 2021-2022 as well. At present, an agreement has been reached on the remote implementation of BUS subjects (modules) in the autumn semester of 2021-2022, thus providing an opportunity for both VU Kaunas Faculty and other University students to freely choose from a wider list of GUS subjects (modules) and to acquire the desired general competencies. 
         <p><strong>Implementation of objectives:</strong>  <br>
-        <strong>Objective 1</strong> Abandoned <br>
-        <strong>Objective 2</strong> Abandoned <br>
-        <strong>Objective 3</strong> Implemented <br>
-        <strong>Objective 4</strong> Implemented
+        </p><strong>Objective 1</strong>  <progress id="progressBar" max="100" value="0"></progress><br>
+        <strong>Objective 2</strong>  <progress id="progressBar" max="100" value="0"></progress><br>
+        <strong>Objective 3</strong>  <progress id="progressBar" max="100" value="100"></progress><br>
+        <strong>Objective 4</strong>  <progress id="progressBar" max="100" value="100"></progress><br>
     </p>
     <br>
 
@@ -332,13 +369,13 @@ www.vusa.lt → Documents → Operating documents. </p>
         <p><strong>How much has been achieved:</strong>
         In pursuit of this goal, we assessed that student satisfaction with studies is determined by many different factors, which include both the quality of studies and the study environment. To this day, we managed to ensure that improvements are made to all study programs based on the problems posed by the students. VU KnF has established 1 new post-lecture initiative for students. Having achieved this goal, we look further and aim for at least 2 such initiatives. Due to the epidemiological situation and the organization of studies at a distance, it was decided to focus the goal of ensuring student accommodation conditions on a later period. Meanwhile, in anticipation of returning to the faculty environment, we have already prepared proposals for the library restructuring plan envisaged by VU KnF - one of the new goals that emerged during the year. In order to take the needs of students into account in the future, we prepare proposals for VU KnF 2022-2025 activity plan and time to measure the result of all set goals, not in epidemiological situation, but in circumstances that will allow all faculty students to feel and evaluate changes. 
         <p><strong>Implementation of objectives:</strong>  <br>
-        <strong>Objective 1</strong> Ongoing [50 %]  <br>
-        <strong>Objective 2</strong> Will be implemented <br>
-        <strong>Objective 3</strong> Will be implemented <br>
-        <strong>Objective 4</strong> Implemented <br>
-        <strong>Objective 5</strong> Ongoing [50 %]  <br>
-        <strong>Objective 6</strong> Ongoing [50 %]  <br>
-        <strong>Objective 7</strong> Will be implemented
+        </p><strong>Objective 1</strong>  <progress id="progressBar" max="100" value="50"></progress><br>
+        <strong>Objective 2</strong>  <progress id="progressBar" max="100" value="0"></progress><br>
+        <strong>Objective 3</strong>  <progress id="progressBar" max="100" value="0"></progress><br>
+        <strong>Objective 4</strong>  <progress id="progressBar" max="100" value="100"></progress><br>
+        <strong>Objective 5</strong>  <progress id="progressBar" max="100" value="50"></progress><br>
+        <strong>Objective 6</strong>  <progress id="progressBar" max="100" value="50"></progress><br>
+        <strong>Objective 7</strong>  <progress id="progressBar" max="100" value="0"></progress><br>
     </p>
     <br>
 
@@ -349,10 +386,10 @@ www.vusa.lt → Documents → Operating documents. </p>
         <p><strong>How much has been achieved:</strong>
         For some time now, a list of companies has been compiled and analysed (this has helped to refine potentially more cooperative companies). The prepared letter is intended for companies - a personalized part (different for each company) and a template part (for all). Emails are sent, the replies are awaited. If those willing to cooperate will appear, an agreement will be reached on the specific conditions under which the scholarship will be awarded. 
         <p><strong>Implementation of objectives:</strong>  <br>
-        <strong>Objective 1</strong> Implemented  <br>
-        <strong>Objective 2</strong> Implemented <br>
-        <strong>Objective 3</strong> Ongoing [15 %]<br>
-        <strong>Objective 4</strong> Will be implemented 
+        </p><strong>Objective 1</strong>  <progress id="progressBar" max="100" value="100"></progress><br>
+        <strong>Objective 2</strong>  <progress id="progressBar" max="100" value="100"></progress><br>
+        <strong>Objective 3</strong>  <progress id="progressBar" max="100" value="15"></progress><br>
+        <strong>Objective 4</strong>  <progress id="progressBar" max="100" value="0"></progress><br> 
     </p>
     <br>
 
@@ -363,10 +400,10 @@ www.vusa.lt → Documents → Operating documents. </p>
         <p><strong>How much has been achieved:</strong>
         Virginija Klimukiene, the head of the counselling and training centre, was contacted in order to find out the need for psychological counselling of VU MF students and residents. In addition, the Residents' Council of VU MF was coordinated with the residents regarding the need for a psychologist's office and its best location. During the meeting of the VU MF Dean's Office, it was agreed on a psychologist's office on the VU MF premises, where VU MF students and residents would be admitted. 
         <p><strong>Implementation of objectives:</strong>  <br>
-        <strong>Objective 1</strong> Implemented  <br>
-        <strong>Objective 2</strong> Implemented <br>
-        <strong>Objective 3</strong> Ongoing [20 %] <br>
-        <strong>Objective 4</strong> Will be implemented 
+        </p><strong>Objective 1</strong>  <progress id="progressBar" max="100" value="100"></progress><br>
+        <strong>Objective 2</strong>  <progress id="progressBar" max="100" value="100"></progress><br>
+        <strong>Objective 3</strong>  <progress id="progressBar" max="100" value="20"></progress><br>
+        <strong>Objective 4</strong>  <progress id="progressBar" max="100" value="0"></progress><br>
     </p>
     <br>
 
@@ -377,10 +414,10 @@ www.vusa.lt → Documents → Operating documents. </p>
         </h4>
         <p><strong>How much has been achieved:</strong>
         After receiving the list of SPC representatives from the administration, we contacted the listed SPC representatives. As some representatives graduated in January, new representatives had to be sought for the SPC. We have already found most of them. All SPC representatives were contacted individually and introduced to their main functions. Once we find all the SPK members, we will organize a joint meeting. 
-        </p><strong>Objective 1</strong> Implemented  <br>
-        <strong>Objective 2</strong> Ongoing [70 %] <br>
-        <strong>Objective 3</strong> Ongoing [70 %] <br>
-        <strong>Objective 4</strong> Will be implemented 
+        </p><strong>Objective 1</strong> <progress id="progressBar" max="100" value="100"></progress><br>
+        <strong>Objective 2</strong>  <progress id="progressBar" max="100" value="70"></progress><br>
+        <strong>Objective 3</strong>  <progress id="progressBar" max="100" value="70"></progress><br>
+        <strong>Objective 4</strong>  <progress id="progressBar" max="100" value="0"></progress><br>
     </p>
     <br>
 
@@ -391,11 +428,12 @@ www.vusa.lt → Documents → Operating documents. </p>
         <p><strong>How much has been achieved:</strong>
         After sharing the work with the administration, a feedback collection plan was developed, on the basis of which the feedback is collected. Systematized feedback is prepared for presentation to the study service, representatives on study program committees, and lecturers. Student representatives from all programs are involved in reviewing changes to study subjects, and a communication campaign to increase student interest in study management has been almost fully implemented. An open meeting of the VU VM community was organized, where, together with lecturers, students and administration, the importance of direct feedback was highlighted and a move was started towards the optimization of feedback collection.
         <p><strong>Implementation of objectives:</strong>  <br>
-        <strong>Objective 1</strong> Implemented  <br>
-        <strong>Objective 2</strong> Implemented <br>
-        <strong>Objective 3</strong> Ongoing [20 %] <br>
-        <strong>Objective 4</strong> Ongoing [50 %] <br>
-        <strong>Objective 4</strong> Ongoing [75 %]
+        </p><strong>Objective 1</strong>  <progress id="progressBar" max="100" value="100"></progress><br>
+        <strong>Objective 2</strong>  <progress id="progressBar" max="100" value="100"></progress><br>
+        <strong>Objective 3</strong>  <progress id="progressBar" max="100" value="20"></progress><br>
+        <strong>Objective 4</strong>  <progress id="progressBar" max="100" value="50"></progress><br>
+        <strong>Objective 5</strong>  <progress id="progressBar" max="100" value="75"></progress><br>
     </p>
     <br>
+    <img src="/img/bendros/IMG_9925-2.jpg" alt=" " style="width:100%;display: block;margin-left: auto;margin-right: auto;">
 </section>
