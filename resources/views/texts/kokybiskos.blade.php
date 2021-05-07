@@ -264,7 +264,7 @@
 
     <h3 style="text-align: center;">VU Centrinė akademinės etikos komisija  </h3>
     <p><i> Studentų atstovai – Aistė Rinkevičiūtė, Jorigis Jonas Marčėnas, Martynas Arbačiauskas. </i></p>
-    <p>Komisija nagrinėja akademinės bendruomenės narių skundus dėl akademinės etikos pažeidimų. Ataskaitiniu laikotarpiu įvyko 8 posėdžiai, kurių metu nagrinėti 10 pareiškim7. Taip pat, vykdant akademinę etiką reglamentuojančių dokumentų atnaujinimą Universitete, AEK esantys studentų atstovai teikė siūlymus bei išsakė poziciją dėl šių dokumentų atnaujinimo. </p>
+    <p>Komisija nagrinėja akademinės bendruomenės narių skundus dėl akademinės etikos pažeidimų. Ataskaitiniu laikotarpiu įvyko 8 posėdžiai, kurių metu nagrinėti 10 pareiškimų. Taip pat, vykdant akademinę etiką reglamentuojančių dokumentų atnaujinimą Universitete, AEK esantys studentų atstovai teikė siūlymus bei išsakė poziciją dėl šių dokumentų atnaujinimo. </p>
 
     <br>
 
