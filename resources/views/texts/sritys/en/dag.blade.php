@@ -99,7 +99,7 @@
 
 
     
-<img src="/img/padeka/dag_en.png" alt="VU SA CHGF" style="width:50%">
+<img src="/img/padeka/dag_en.png" alt="VU SA CHGF" style="width:100%">
   </div>
 </div>
 

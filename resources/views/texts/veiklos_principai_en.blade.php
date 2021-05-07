@@ -29,7 +29,7 @@
 <img src="/img/bendros/IMG_6422.jpg" alt=" " style="width:100%;display: block;margin-left: auto;margin-right: auto;"><br><br>
 
 <section id="apie-vusa" title="Apie VUSA">
-    <p style="font-size: 50px; text-align: center;text-shadow: 2px 2px 8px #bf9da0;"><b>PRINCIPLES OF ACTIVITY</b></p>
+    <p style="font-size: 50px; text-align: center;text-shadow: 2px 2px 8px #bf9da0;"><b>VU SA MANAGEMENT AND THE PRINCIPLES OF ACTIVITY</b></p>
     <!--<div class="row">
     <div class="column">
         <img width= "100%" height=auto src="/img/VU-SA-schema-02.png">
@@ -85,7 +85,7 @@
 
     <h2 style="text-align: center"><b>VU SA Parliament</b></h2>
     <h4 style="text-align: center">Aistė Pačebutaitė (until March 2021) and Augustė Grakavinaitė (since March 2021) was the chairpersons of VU SA Parliament during the reference period. </h4>
-    <h4> style="text-align: center"In 2020–2021 the members of VU SA Parliament were: </h4>
+    <h4 style="text-align: center">In 2020–2021 the members of VU SA Parliament were: </h4>
     <section id="aukstojo-mokslo-schema">
         <ul>
             
@@ -164,9 +164,9 @@ During the reference period, Artūras Anisimenka (the head of the group), Vanesa
         VU SA Parliament approves this resolution, approving the provisions of principle on ensuring equal opportunities for every member of the academic community at Vilnius University. Better integration of socially vulnerable groups into the higher education community reduces social inequalities and benefits not only the individual but also the University's academic community and society. Enabling each person to fulfill their potential increases mutual understanding and creates a healthier, more civil and talented society, which contributes to the international competitiveness of the state. For these reasons, the University at all levels singled out in the concept of the social dimension - (I) before entry; (II) at entry; (III) during studies; (IV) in the transition moving to the labor market – must pay more attention to assessing the needs of unrepresented groups and ensuring equal opportunities. 
         </p>
 
-        <hr>
+        
 
-        <h2  style="text-align: center"><b>Review of the findings of VU SA research on procedure for conducting internships at Vilnius University </b></h2>
+        <p   style="text-align: center"><strong>Review of the findings of VU SA research on procedure for conducting internships at Vilnius University </strong></p>
 
         <p>
         VU SA Parliament reviews the current situation and makes proposals on internships and all processes at Vilnius University that are related to student internships. VU SA, approving the provisions of principle on internships at Vilnius University, sees quality internships as a key aspect of study quality, therefore in this document we identify the problems that arise for students and provide suggestions for their solution. 
