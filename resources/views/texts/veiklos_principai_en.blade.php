@@ -233,7 +233,7 @@ During the reference period, Artūras Anisimenka (the head of the group), Vanesa
         <li>Milda Girdenytė
         <li>Erika Nedvecka
         <li>Dominyka Žukovska
-        </ul>
+        </ul>   
 
         
         <img src="/img/Haroldas Vitunskas.jpg" alt=" " width = 25% style = "margin: 10px;">
