@@ -1,4 +1,6 @@
 <section id="atstovavimas">
+<img src="/img/bendros/IMG_9925-2.jpg" alt=" " style="width:100%;display: block;margin-left: auto;margin-right: auto;">
+
     <p style="font-size: 50px; text-align: center;text-shadow: 2px 2px 8px #bf9da0;"><b>
     STUDENTS' REPRESENTATION BASED ON NEEDS</b></p>
     <h1 style="text-align: center;"> <b> Representation on National Level</b> </h1>

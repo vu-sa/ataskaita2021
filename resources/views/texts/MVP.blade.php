@@ -421,5 +421,4 @@ www.vusa.lt → Dokumentai → VU SA dokumentai → Veiklą reglamentuojantys do
         <strong>5 uždavinys:</strong>  <progress id="progressBar" max="100" value="75"></progress><br>
     </p>
     <br>
-    <img src="/img/bendros/IMG_9925-2.jpg" alt=" " style="width:100%;display: block;margin-left: auto;margin-right: auto;">
 </section>

@@ -435,5 +435,4 @@ www.vusa.lt → Documents → Operating documents. </p>
         <strong>Objective 5</strong>  <progress id="progressBar" max="100" value="75"></progress><br>
     </p>
     <br>
-    <img src="/img/bendros/IMG_9925-2.jpg" alt=" " style="width:100%;display: block;margin-left: auto;margin-right: auto;">
 </section>
