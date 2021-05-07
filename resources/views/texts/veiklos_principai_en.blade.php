@@ -228,17 +228,22 @@ During the reference period, Artūras Anisimenka (the head of the group), Vanesa
         <p>The Revision Commission is a controlling institution performing financial and operational inspection of VU SR self-government institutions, VU SR subdivisions and other structural units of VU SR, as well as legal entities established by VU SR. The commission consists of five members elected at the VU SR annual convention. </p>
         <p><strong>During the reference period, the Revision Commission consisted of: </strong><p>
         <ul>
-        <li>Haroldas Vitunskas (Chairman of the Commission)<br>
-            <img src="/img/revizija/Haroldas Vitunskas.jpg" alt=" " width = 25% style = "margin-bottom: 30px;margin-top: 10px;"> </li>
-        <li>Bernadeta Dikčiūtė<br>
-            <img src="/img/revizija/Bernadeta Dikčiūtė.jpg" alt=" " width = 25% style = "margin-bottom: 30px;margin-top: 10px;"> </li>
-        <li>Milda Girdenytė <br>
-            <img src="/img/revizija/Milda Girdenytė.jpg" alt=" " width = 25% style = "margin-bottom: 30px;margin-top: 10px;"></li>
-        <li>Erika Nedvecka <br>
-            <img src="/img/revizija/Erika Nedvecka.jpg" alt=" " width = 25% style = "margin-bottom: 30px;margin-top: 10px;"></li>
-        <li>Dominyka Žukovska <br>
-            <img src="/img/revizija/Dominyka Žukovska.jpg" alt=" " width = 25% style = "margin-bottom: 30px;margin-top: 10px;"></li>
+        <li>Haroldas Vitunskas (Chairman of the Commission)
+        <li>Bernadeta Dikčiūtė
+        <li>Milda Girdenytė
+        <li>Erika Nedvecka
+        <li>Dominyka Žukovska
         </ul>
+
+        
+        <img src="/img/Haroldas Vitunskas.jpg" alt=" " width = 25% style = "margin: 10px;">
+        <img src="/img/Bernadeta Dikčiūtė.jpg" alt=" " width = 25% style = "margin: 10px;">
+        <img src="/img/Milda Girdenytėė.jpg" alt=" " width = 25% style = "margin: 10px;">
+        <img src="/img/Erika Nedvecka.jpg" alt=" " width = 25% style = "margin: 10px;">
+        <img src="/img/Dominyka Žukovska.jpg" alt=" " width = 25% style = "margin: 10px;">
+        <br><br>
+
+
         <p>2020-2021 The Revision Commission developed a new performance appraisal methodology and performed interim and final performance appraisals. During the evaluation, the Revision Commission was in regular contact with the audited entities, checked the compliance of VU SR, VU SA U, VU SA PCP, VU SA DPG members, VU SA ISF and VU SR Parliament with quantitative and qualitative evaluation criteria, evaluated activities in surveys and meetings with audited entities. </p>
         <p>In the process of developing the new evaluation methodology and evaluating the audited units, 2 open meetings of the Revision Commission and 70 closed working sessions took place. The Revision Commission participated in the meetings of the Parliament and the Board, in the trainings carried out by the organization, conducted 272 meetings with the audited units and launched 10 evaluation surveys. The Revision Commission provided written answers to the inquiries of VU SR members related to VU SR activities and legal acts. </p>
         <p>The results of the evaluation of the organization's activities are provided by the Revision Commission during the annual convention of VU SR (the evaluation methodology and conclusions are available at vusa.lt). </p>

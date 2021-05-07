@@ -1,4 +1,7 @@
 <section id="padeka">
+<img src="/img/bendros/bendra.jpg" alt=" " style="width:100%;display: block;margin-left: auto;margin-right: auto;"><br><br>
+<p style="font-size: 50px; text-align: center;text-shadow: 2px 2px 8px #bf9da0;"><b>
+THANK YOU FOR THOSE, WHO GROW TOGETHER!</b></p><BR>
                 @include('texts.sritys.en.cb')
                 @include('texts.sritys.en.mif')
                 @include('texts.sritys.en.mf')

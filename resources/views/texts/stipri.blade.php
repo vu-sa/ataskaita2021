@@ -37,25 +37,26 @@ th, td {
     <h3 style="text-align: center;">Institucinis stiprinimas</h2>
     <p><strong>Ataskaitiniu laikotarpiu Institucinio stiprinimo fondą sudarė: </strong></p>
     <ul>
-        <li>Goda Andrijaitytė <i>(pirmininkė)</i> <br>
-        <img src="/img/Goda Andrijaitytė.jpg" alt=" " width = 25% style = "margin-bottom: 30px;margin-top: 10px;"></li>
+        <li>Goda Andrijaitytė <i>(pirmininkė)</i>
         </li>
-        <li>Irma Brogaitė<br>
-        <img src="/img/Irma Brogaitė.jpg" alt=" " width = 25% style = "margin-bottom: 30px;margin-top: 10px;"></li>
+        <li>Irma Brogaitė
         </li>
-        <li>Kamilė Kandrotaitė<br>
-        <img src="/img/Kamilė Kandrotaitė.jpg" alt=" " width = 25% style = "margin-bottom: 30px;margin-top: 10px;"></li>
+        <li>Kamilė Kandrotaitė
         </li>
-        <li>Eividas Grinius<br>
-        <img src="/img/Eividas Grinius.jpg" alt=" " width = 25% style = "margin-bottom: 30px;margin-top: 10px;"></li>
+        <li>Eividas Grinius
         </li>
-        <li>Elizabet Beržanskytė<br>
-        <img src="/img/Elizabet Beržanskytė.jpg" alt=" " width = 25% style = "margin-bottom: 30px;margin-top: 10px;"></li>
+        <li>Elizabet Beržanskytė
         </li>
-        <li>Marius Norkūnas<br>
-        <img src="/img/Marius Norkūnas.jpg" alt=" " width = 25% style = "margin-bottom: 30px;margin-top: 10px;"></li>
+        <li>Marius Norkūnas
         </li>
     </ul>
+    <img src="/img/Goda Andrijaitytė.jpg" alt=" " width = 25% style = "margin: 10px;">
+    <img src="/img/Irma Brogaitė.jpg" alt=" " width = 25% style = "margin: 10px;">
+    <img src="/img/Kamilė Kandrotaitė.jpg" alt=" " width = 25% style = "margin: 10px;">
+    <img src="/img/Eividas Grinius.jpg" alt=" " width = 25% style = "margin: 10px;">
+    <img src="/img/Elizabet Beržanskytė.jpg" alt=" " width = 25% style = "margin: 10px;">
+    <img src="/img/Marius Norkūnas.jpg" alt=" " width = 25% style = "margin: 10px;">
+    <br><br>
     <p>Šiais metais buvo organizuoti 25 mokymai, kuriuose dalyvavo apie 750 dalyvių. Pagrindinės temos, į kurias buvo gilinamasi mokymų metu: </p>
     <ul>
         <li>organizacijos strategija, struktūra ir įvaizdis; </li>

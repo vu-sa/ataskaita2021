@@ -37,25 +37,26 @@ th, td {
     <h3 style="text-align: center;">INSTITUTIONAL STRENGTHENING </h2>
     <p><strong>During the reference period, the Institutional Strengthening Fund was coordinated by: </strong></p>
     <ul>
-        <li>Goda Andrijaitytė <i>(chairperson)</i> <br>
-        <img src="/img/Goda Andrijaitytė.jpg" alt=" " width = 25% style = "margin-bottom: 30px;margin-top: 10px;"></li>
+        <li>Goda Andrijaitytė <i>(chairperson)</i>
         </li>
-        <li>Irma Brogaitė<br>
-        <img src="/img/Irma Brogaitė.jpg" alt=" " width = 25% style = "margin-bottom: 30px;margin-top: 10px;"></li>
+        <li>Irma Brogaitė
         </li>
-        <li>Kamilė Kandrotaitė<br>
-        <img src="/img/Kamilė Kandrotaitė.jpg" alt=" " width = 25% style = "margin-bottom: 30px;margin-top: 10px;"></li>
+        <li>Kamilė Kandrotaitė
         </li>
-        <li>Eividas Grinius<br>
-        <img src="/img/Eividas Grinius.jpg" alt=" " width = 25% style = "margin-bottom: 30px;margin-top: 10px;"></li>
+        <li>Eividas Grinius
         </li>
-        <li>Elizabet Beržanskytė<br>
-        <img src="/img/Elizabet Beržanskytė.jpg" alt=" " width = 25% style = "margin-bottom: 30px;margin-top: 10px;"></li>
+        <li>Elizabet Beržanskytė
         </li>
-        <li>Marius Norkūnas<br>
-        <img src="/img/Marius Norkūnas.jpg" alt=" " width = 25% style = "margin-bottom: 30px;margin-top: 10px;"></li>
+        <li>Marius Norkūnas
         </li>
     </ul>
+    <img src="/img/Goda Andrijaitytė.jpg" alt=" " width = 25% style = "margin: 10px;">
+    <img src="/img/Irma Brogaitė.jpg" alt=" " width = 25% style = "margin: 10px;">
+    <img src="/img/Kamilė Kandrotaitė.jpg" alt=" " width = 25% style = "margin: 10px;">
+    <img src="/img/Eividas Grinius.jpg" alt=" " width = 25% style = "margin: 10px;">
+    <img src="/img/Elizabet Beržanskytė.jpg" alt=" " width = 25% style = "margin: 10px;">
+    <img src="/img/Marius Norkūnas.jpg" alt=" " width = 25% style = "margin: 10px;">
+    <br><br>
     <p>This year, 25 trainings were organized with about 750 participants. The main topics covered during the trainings were:  </p>
     <ul>
         <li>the strategy, structure and image of the organization; </li>

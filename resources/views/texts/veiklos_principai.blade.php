@@ -276,17 +276,21 @@
         </p>
         <p><strong>Ataskaitiniu laikotarpiu Revizijos komisiją sudarė: </strong></p>
         <ul>
-            <li>Haroldas Vitunskas (komisijos pirmininkas)<br>
-            <img src="/img/revizija/Haroldas Vitunskas.jpg" alt=" " width = 25% style = "margin-bottom: 30px;margin-top: 10px;"></li>
-            <li>Bernadeta Dikčiūtė<br>
-            <img src="/img/revizija/Bernadeta Dikčiūtė.jpg" alt=" " width = 25% style = "margin-bottom: 30px;margin-top: 10px;">  </li>
-            <li>Milda Girdenytė <br>
-            <img src="/img/revizija/Milda Girdenytė.jpg" alt=" " width = 25% style = "margin-bottom: 30px;margin-top: 10px;"> </li>
-            <li>Erika Nedvecka <br>
-            <img src="/img/revizija/Erika Nedvecka.jpg" alt=" " width = 25% style = "margin-bottom: 30px;margin-top: 10px;"> </li>
-            <li>Dominyka Žukovska <br>
-            <img src="/img/revizija/Dominyka Žukovska.jpg" alt=" " width = 25% style = "margin-bottom: 30px;margin-top: 10px;"> </li>
+            <li>Haroldas Vitunskas (komisijos pirmininkas)
+            <li>Bernadeta Dikčiūtė
+            <li>Milda Girdenytė 
+            <li>Erika Nedvecka
+            <li>Dominyka Žukovska
         </ul>
+
+        <img src="/img/Haroldas Vitunskas.jpg" alt=" " width = 25% style = "margin: 10px;">
+        <img src="/img/Bernadeta Dikčiūtė.jpg" alt=" " width = 25% style = "margin: 10px;">
+        <img src="/img/Milda Girdenytėė.jpg" alt=" " width = 25% style = "margin: 10px;">
+        <img src="/img/Erika Nedvecka.jpg" alt=" " width = 25% style = "margin: 10px;">
+        <img src="/img/Dominyka Žukovska.jpg" alt=" " width = 25% style = "margin: 10px;">
+        <br><br>
+
+
         <p>
             2020–2021 m. Revizijos komisija sudarė naują veiklos vertinimo metodiką ir 
             pagal ją atliko tarpinį bei galutinį veiklos vertinimus. Vertinimo metu 
