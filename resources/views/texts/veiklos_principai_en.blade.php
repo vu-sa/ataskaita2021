@@ -223,7 +223,7 @@ During the reference period, Artūras Anisimenka (the head of the group), Vanesa
 
     <br>
 
-    <h2 style="text-align: center"><b>TH REVISION COMMISION</b></h2>
+    <h2 style="text-align: center"><b>THE REVISION COMMISION</b></h2>
 
         <p>The Revision Commission is a controlling institution performing financial and operational inspection of VU SR self-government institutions, VU SR subdivisions and other structural units of VU SR, as well as legal entities established by VU SR. The commission consists of five members elected at the VU SR annual convention. </p>
         <p><strong>During the reference period, the Revision Commission consisted of: </strong><p>
