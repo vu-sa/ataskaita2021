@@ -9,7 +9,11 @@
 </style>
 </head>
 <section id="bendruomene">
-<p style="font-size: 50px; text-align: center;"><b>
+<img src="/img/bendros/119670851_10157966331939285_522420619595062571_n.jpg" alt=" " style="width:100%;display: block;margin-left: auto;margin-right: auto;"><br><br>
+
+<p style="font-size: 50px; text-align: center;text-shadow: 2px 2px 8px #bf9da0;"><b>
+DARNI UNIVERSITETINĖ BENDRUOMENĖ</b></p>
+<p style="font-size: 40px; text-align: center;"><b>
 Bendruomenę buriantys renginiai</b></p>
 <p>Bendruomeniškumo puoselėjimas bei studentų integracija išlieka svarbiu Vilniaus universiteto Studentų atstovybės veiklos prioritetu. Jau kelerius metus iš eilės VU SA aktyviai rūpinasi socialinių–akademinių ir bendruomeninių renginių pasiūla, stiprina ir plečia projektus, klubus ir programas, kurie yra atviri visiems VU bendruomenės nariams. Taip VU SA skatina darnią, atvirą ir universitetines tradicijas puoselėjančią bendruomenę. </p>
 <h3 style="text-align: center;"><STRONG>VU SA 31</STRONG></h3>
@@ -85,7 +89,7 @@ emocinės sveikatos ir kitomis aktualiomis temomis. Kiekvieną sekmadienį
 dalintasi menininkų, susijusių su kultūra, socialiai pažeidžiamomis grupėmis 
 ar emocine sveika, istorijomis ir darbais. Siekiant įrašų atpažinimo taikyta 
 grotažymė <i>#kultūravisų</i>. Taip pat, ataskaitiniu laikotarpiu organizuota paskaita 
-apie visavertiškumo jausmą ir meditaciją. Šių metų Hallophobia renginio metu vesta 
+apie visavertiškumo jausmą ir meditaciją. Šių metų <i>Hallophobia</i> renginio metu vesta 
 paskaita apie studentų patiriamas emocines krizes. Minint savaitę prieš rasizmą 
 kartu su VU SA ESN rengta paskaita apie rasizmą ir ksenofobiją Lietuvoje, 
 kurioje teisinį ir realybės žmogaus teisių aspektus pristatė lektorės iš Žmogaus 
@@ -93,7 +97,7 @@ teisių balso ir Lietuvos žmogaus teisių centro. Tolerancijos dienos proga org
 diskusija, kurioje renginio dalyviai buvo kviečiami diskutuoti, kaip tam tikros 
 socialinės situacijos veikia žmogaus psichologinę sveikatą. Spalio mėnesį, 
 bendradarbiaujant su Universiteto LGBT+ grupe, organizuotas mados pristatymo 
-renginys Atverk savo spintą, į kurį kviesti keli stiliumi besidomintys LGBT+ 
+renginys <i>Atverk savo spintą</i>, į kurį kviesti keli stiliumi besidomintys LGBT+ 
 bendruomenės asmenys. 
 </p>
 <div class="image">
@@ -147,7 +151,7 @@ saugumo priemones. Kartu studentams buvo suteikta ir kontaktinė informacija
 užsikrėtimo liga atveju. Be visų standartinių renginių (protmūšių, 
 ekskursijų, susipažinimo vakarų), metų eigoje buvo organizuoti 
 <i>ESN Social Inclussion Days</i> renginiai – gestų kalbos mokymai ir –
-bendradarbiaujant su VU SA programa Be Etikečių – paskaita apie rasizmą.  
+bendradarbiaujant su VU SA programa <i>"Be Etikečių"</i> – paskaita apie rasizmą.  
 Sveikatingumo savaitės metu rengtos žingsnių kiekio varžybos, paskaitos 
 apie streso valdymą ir miesto pažinimo aktyviaisiais būdais iššūkiai. 
 Pavasario semestro metu atgaivintas tarptautinis projektas <i>Erasmus in Schools</i>, 
@@ -155,7 +159,7 @@ kurio metu, bendraujant su VU užsienio studentais, mokiniai skatinami įsitrauk
 Taip pat atgaivintas nacionalinis projektas <i>Multilingual Lithuania</i>, suteikiantis galimybę 
 vietiniams studentams išmokti užsienio kalbos bendraujant su VU užsienio studentais kaip mokytojais. 
 </p>
-<p><i>ESN Vilnius University</i> per šiuos metus sustiprino ryšius su kitomis ESN Lithuania sekcijomis. Programa dalyvavo VU SA metiniuose planavimuose, kurių metu buvo išgrynintos dvi probleminės bylos, o jų įgyvendinimas – dalinai pasiektas. Dalyvauta įvairiuose VU SA mokymuose, kurių metų buvo gautos reikiamos kompetencijos. Vasario mėnesį ESN Vilnius University prisidėjo prie VU Tarptautinių ryšių skyriaus vietinių studentų mobilumo skatinimo konferencijų.</p> 
+<p><i>"ESN Vilnius University"</i> per šiuos metus sustiprino ryšius su kitomis ESN Lithuania sekcijomis. Programa dalyvavo VU SA metiniuose planavimuose, kurių metu buvo išgrynintos dvi probleminės bylos, o jų įgyvendinimas – dalinai pasiektas. Dalyvauta įvairiuose VU SA mokymuose, kurių metų buvo gautos reikiamos kompetencijos. Vasario mėnesį <i>"ESN Vilnius University"</i> prisidėjo prie VU Tarptautinių ryšių skyriaus vietinių studentų mobilumo skatinimo konferencijų.</p> 
 <div class="image">
 <img src="/img/pkp_logo/LT-vilnius_university-logo-colour.png" alt="esn logo" style="width:50%;">
 </div>
@@ -246,7 +250,7 @@ Labdaros ir paramos fondo <i>Ateičiai</i> veikla yra socialiai atsakinga bei 
 </p>
 <p>
 <i>VU Rašytojų klubo</i> nariai rengia atviras paskaitas apie įdomiausius literatūrinius judėjimus ir ryškiausius pasaulinės ir lietuvių literatūros kūrėjus, rengia savos kūrybos skaitymo renginius, organizuoja susitikimus su rašančiaisiais, rengia filmų, sukurtų pagal literatūros kūrinius, peržiūras ir diskusijas, bendrauja su aktoriais. </p>
-<p><i>VU Rašytojų klubas</i> šiais metais daug dėmesio skyrė kūrybos bei autorių biografijų analizėms. Klubas vykdė švietėjišką veiklą ir savo Facebook paskyroje aktyviai publikavo kūrinių rekomendacijas ir analizes. </p>
+<p><i>VU Rašytojų klubas</i> šiais metais daug dėmesio skyrė kūrybos bei autorių biografijų analizėms. Klubas vykdė švietėjišką veiklą ir savo <i>Facebook</i> paskyroje aktyviai publikavo kūrinių rekomendacijas ir analizes. </p>
 <div class="image">
 <img src="/img/pkp_logo/rasytojai.png" alt="rasytoju sajungos logo" style="width:50%;">
 </div>
@@ -255,13 +259,13 @@ Labdaros ir paramos fondo <i>Ateičiai</i> veikla yra socialiai atsakinga bei 
 
 
 <h3 style="text-align: left;"><i><strong>Studentiško gyvenimo vadovas (SGV) </strong></i></h3>
-<p><i>Ataskaitiniu laikotarpiu projekto veiklą koordinavo Evaldas Matijošaitis ir Daniel Šematovič (iki 2020  m. Rugsėjo mėn.). 
+<p><i>Ataskaitiniu laikotarpiu projekto veiklą koordinavo Daniel Šematovič. 
 </i></p>
 <p>
 <i>Studentiško gyvenimo vadovas (SGV) </i>– jau daugiau kaip 10 metų pirmakursių 
 studijų ir gyvenimo naujame mieste pradžiai palengvinti skirtas VU SA leidinys. 
 Šie metai <i>SGV</i> išskirtiniai – jis pirmo kurso studentus pasiekė nebe knygos, o 
-internetinio puslapio pavidalu sgv.vusa.lt, todėl studentams <i>SGV</i> galės pasitarnauti 
+internetinio puslapio pavidalu <i>sgv.vusa.lt</i>, todėl studentams <i>SGV</i> galės pasitarnauti 
 kaip informacijos paieškos įrankis ne tik studijų pradžioje, bet ir visais studijų metais. 
 Pagrindinis <i>SGV</i> tikslas – skatinti studentų savarankiškumą, aktyvią veiklą ir, žinoma, 
 užtikrinti jų sklandų įsiliejimą į didžiausios Lietuvoje akademinės bendruomenės narių gretas. 

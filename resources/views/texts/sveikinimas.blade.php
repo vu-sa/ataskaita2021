@@ -1,6 +1,6 @@
 
 <section id="sveikinimai">
-<p style="font-size: 50px; text-align: center;"><b>Sveikinimai</b></p>
+<p style="font-size: 50px; text-align: center;text-shadow: 2px 2px 8px #bf9da0;"><b>SVEIKINIMAI</b></p>
 @include('texts.sveikinimai.prezidentas')
 @include('texts.sveikinimai.smsm_ministre')
 @include('texts.sveikinimai.pociute')

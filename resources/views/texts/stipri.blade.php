@@ -23,8 +23,10 @@ th, td {
 </style>
 </head>
 <section id="savivalda">
-    <p style="font-size: 50px; text-align: center;"><b>
-    Stipri organizacija</b></p>
+<img src="/img/bendros/IMG_4302.jpg" alt=" " style="width:100%;display: block;margin-left: auto;margin-right: auto;"><br><br>
+
+    <p style="font-size: 50px; text-align: center;text-shadow: 2px 2px 8px #bf9da0;"><b>
+    STIPRI ORGANIZACIJA</b></p>
     
     <h3 style="text-align: center;">VU SA Projektai</h3>
     <p>Ataskaitiniu laikotarpiu VU SA įgyvendino 2 projektus, abiejų projektų įgyvendinimas vis dar tęsiasi. Taip pat buvo pateiktos 2 projektų paraiškos, dėl abiejų dar laukiama vertinimo komisijos galutinio sprendimo.</p>
@@ -33,6 +35,27 @@ th, td {
     <p>Iš Europos Sąjungos struktūrinių fondų gautas finansavimas ECSTRA projektui, kurio tikslas yra skatinti studentų saviraišką, neformalias veiklas ir jose neformaliu būdu įgytas kompetencijas. Per šiuos metus įgyvendinant projektą buvo parengta naujų studentiškų iniciatyvų įsikūrimo struktūra bei vadovų gidas, kuris bus skirtas visiems organizacijoje vadovaujančias pareigas užimantiems asmenis. <p>
 
     <h3 style="text-align: center;">Institucinis stiprinimas</h2>
+    <p><strong>Ataskaitiniu laikotarpiu Institucinio stiprinimo fondą sudarė: </strong></p>
+    <ul>
+        <li>Goda Andrijaitytė <i>(pirmininkė)</i> <br>
+        <img src="/img/Goda Andrijaitytė.jpg" alt=" " width = 25% style = "margin-bottom: 30px;margin-top: 10px;"></li>
+        </li>
+        <li>Irma Brogaitė<br>
+        <img src="/img/Irma Brogaitė.jpg" alt=" " width = 25% style = "margin-bottom: 30px;margin-top: 10px;"></li>
+        </li>
+        <li>Kamilė Kandrotaitė<br>
+        <img src="/img/Kamilė Kandrotaitė.jpg" alt=" " width = 25% style = "margin-bottom: 30px;margin-top: 10px;"></li>
+        </li>
+        <li>Eividas Grinius<br>
+        <img src="/img/Eividas Grinius.jpg" alt=" " width = 25% style = "margin-bottom: 30px;margin-top: 10px;"></li>
+        </li>
+        <li>Elizabet Beržanskytė<br>
+        <img src="/img/Elizabet Beržanskytė.jpg" alt=" " width = 25% style = "margin-bottom: 30px;margin-top: 10px;"></li>
+        </li>
+        <li>Marius Norkūnas<br>
+        <img src="/img/Marius Norkūnas.jpg" alt=" " width = 25% style = "margin-bottom: 30px;margin-top: 10px;"></li>
+        </li>
+    </ul>
     <p>Šiais metais buvo organizuoti 25 mokymai, kuriuose dalyvavo apie 750 dalyvių. Pagrindinės temos, į kurias buvo gilinamasi mokymų metu: </p>
     <ul>
         <li>organizacijos strategija, struktūra ir įvaizdis; </li>
@@ -63,8 +86,8 @@ th, td {
         <li>kuratorių; </li>
         <li>vadovavimo; </li>
         <li>mokymai apie negalią; </li>
-        <li>SPK studentų atstovų mokymai; ; </li>
-        <li>GNK ir AEK studentų atstovų mokymai; ; </li>
+        <li>SPK studentų atstovų mokymai; </li>
+        <li>GNK ir AEK studentų atstovų mokymai; </li>
         <li>komunikacinės-marketingo-organizacinės sričių mokymai. </li>
 
         </ul>
@@ -72,7 +95,7 @@ th, td {
         <li>tęsta ankstesnės kadencijos pradėta mentorių programa. Mentorius turėjo 21 organizacijos vadovas. </li>
     </ul>
 
-    <h3 style="text-align: center;"><i>VU SA vykdyti mokymai</i></h3>
+    <h3 style="text-align: center;">VU SA vykdyti mokymai</h3>
     <table style="width: 100%; border: 1px solid black;">
     <tr>
         <th>Data</th>

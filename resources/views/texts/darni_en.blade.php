@@ -9,7 +9,7 @@
 </style>
 </head>
 <section id="bendruomene">
-<p style="font-size: 50px; text-align: center;"><b>
+<p style="font-size: 50px; text-align: center;text-shadow: 2px 2px 8px #bf9da0;"><b>
 COMMUNITY BUILDING EVENTS </b></p>
 <p>Fostering community spirit and student integration remains an important priority of Vilnius University Students’ Representation. For several years in a row, VU SR has been actively taking care of the offer of social-academic and community events, strengthening and expanding projects, clubs and programs that are open to all members of the VU community. In this way, VU SR promotes a cohesive, open community that fosters university traditions. </p>
 <h3 style="text-align: center;"><STRONG>VU SA 31</STRONG></h3>

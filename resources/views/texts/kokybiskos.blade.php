@@ -1,6 +1,6 @@
 <section id="atstovavimas">
-    <p style="font-size: 50px; text-align: center;"><b>
-    Kokybiškos studijos ir joms pritaikyta aplinka</b></p>
+    <p style="font-size: 50px; text-align: center;text-shadow: 2px 2px 8px #bf9da0;"><b>
+    KOKYBIŠKOS STUDIJOS IR JOMS PRITAIKYTA APLINKA</b></p>
     <h1 style="text-align: center;"> <b> Atstovavimas nacionaliniu lygmeniu </b> </h1>
     <br>
     <h3 style="text-align: center;"> LR Švietimo, mokslo ir sporto ministrės sudaryta 
@@ -78,7 +78,7 @@
     <br>
 
     <h3 style="text-align: center;">Lietuvos Respublikos Seimo (LRS) Sveikatos reikalų komitetas (SRK) </h3>
-    <p><i>Studentų atstovas – Justas Kvedaravičius.</i><br><i>Ataskaitiniu laikotarpiu dalyvauta tik posėdžiuose, kuriuose buvo svarstomi studentams aktualūs klausimai. </i></p>
+    <p><i>Studentų atstovas – Justas Kvedaravičius.</i></p><p><i>Ataskaitiniu laikotarpiu dalyvauta tik posėdžiuose, kuriuose buvo svarstomi studentams aktualūs klausimai. </i></p>
     <p> Seimo Sveikatos reikalų komiteto posėdyje buvo svarstytas rezidentūros studijų valstybės 
     finansuojamų vietų, į kurias 2021 metais priimami studentai, skaičiaus klausimas. Komiteto 
     posėdžio metu buvo diskutuojama dėl valstybės finansuojamų rezidentūros vietų skaičiaus didinimo, 
@@ -104,7 +104,7 @@
     <br>
 
     <h3 style="text-align: center;">Vilniaus miesto savivaldybė </h3>
-    <p><i>Ataskaitiniu laikotarpiu teikti pasiūlymai dėl akademinių miestelių tobulinimo (žr. Vilniaus miesto Jaunimo reikalų taryba). </i></p>
+    <p>Ataskaitiniu laikotarpiu teikti pasiūlymai dėl akademinių miestelių tobulinimo (žr. Vilniaus miesto Jaunimo reikalų taryba). </p>
     <p>Kreiptasi dėl kalio jodido tablečių išdavimo jauniems asmenims 
     gyvenantiems Vilniuje, nes prieš tai kalio jodido tabletės buvo 
     išduodamos tik asmenims deklaravusiems savo gyvenamąją vietą Vilniuje,
@@ -146,7 +146,7 @@
     raštą su kreipimusi padidinti valstybės finansuojamų vietų 
     skaičių, kurios būtų skiriamos prioritetinėms sritims. </p>
 
-    <h1 style="text-align: center;"> <b> Atstovavimas nacionaliniu lygmeniu </b> </h1>
+    <h1 style="text-align: center;"> <b> Atstovavimas VU </b> </h1>
 
     <br>
 
@@ -185,7 +185,7 @@
     <h3 style="text-align: center;">VU Rektoratas </h3>
     <p>Posėdžių metu pristatyta akademinių darbuotojų 
     darbo užmokesčių kėlimo galimybės, pristatyta VU SSC 
-    ir VU SA koncepcija #SveikasUniversitetas. Diskutuota 
+    ir VU SA koncepcija <i>#SveikasUniversitetas</i>. Diskutuota 
     įvairiausiais klausimais – dėl paskaitų įrašymo 
     galimybių, dėl dėstytojų bazinių pedagoginių 
     kompetencijų. Išklausyti pristatymai apie Vilniaus 
@@ -236,7 +236,7 @@
     
     <p><strong>Svarstyta: </strong> Vilniaus universiteto strateginis planas 2021-2025 m.
     <br><strong>Nutarta: </strong>patvirtinti Vilniaus universiteto 2021-2025 m. 
-    strateginio veiklos plano projektą. Susipažinti su strateginiu galima
+    strateginio veiklos plano projektą. Susipažinti su strateginiu planu galima
     <a class="fs-6" href="https://www.vu.lt/site_files/VILNIAUS_UNIVERSITETO_STRATEGINIS_PLANAS_20212025.pdf">čia</a>.</p>
 
     
@@ -262,7 +262,7 @@
 
     <h3 style="text-align: center;">VU Centrinė akademinės etikos komisija  </h3>
     <p><i> Studentų atstovai – Aistė Rinkevičiūtė, Jorigis Jonas Marčėnas, Martynas Arbačiauskas. </i></p>
-    <p>Komisija nagrinėja akademinės bendruomenės narių skundus dėl akademinės etikos pažeidimų. Ataskaitiniu laikotarpiu įvyko 7 posėdžiai, kurių metu nagrinėti 9 pareiškimai. Taip pat, vykdant akademinę etiką reglamentuojančių dokumentų atnaujinimą Universitete, AEK esantys studentų atstovai teikė siūlymus bei išsakė poziciją dėl šių dokumentų atnaujinimo. </p>
+    <p>Komisija nagrinėja akademinės bendruomenės narių skundus dėl akademinės etikos pažeidimų. Ataskaitiniu laikotarpiu įvyko 8 posėdžiai, kurių metu nagrinėti 10 pareiškim7. Taip pat, vykdant akademinę etiką reglamentuojančių dokumentų atnaujinimą Universitete, AEK esantys studentų atstovai teikė siūlymus bei išsakė poziciją dėl šių dokumentų atnaujinimo. </p>
 
     <br>
 
@@ -333,7 +333,7 @@
     <br>
 
     <h3 style="text-align: center;">VU partnerystės profesorių ir partnerystės docentų skyrimo patariamasis komitetas  </h3>
-    <p>Ataskaitiniu laikotarpiu patariamasis komitetas susirinko į vieną posėdį, jame buvo išsakyta studentų nuomonė dėl kandidatūrų atsižvelgiant į studentų ir dėstytojų apklausomis surinkta nuomonę. </p>
+    <p>Ataskaitiniu laikotarpiu patariamasis komitetas susirinko į vieną posėdį, jame buvo išsakyta studentų nuomonė dėl kandidatūrų atsižvelgiant į studentų ir dėstytojų apklausomis surinktą nuomonę. </p>
 
     
     <br>
@@ -387,7 +387,7 @@
     <h3 style="text-align: center;">Bendrųjų kompetencijų darbo grupė </h3>
     <p><i>Studentų atstovė – Gabija Daunoravičiūtė. </i></p>
     <p>Bendrųjų kompetencijų darbo grupėje kuria neformaliai įgytų kompetencijų užskaitymo strategiją. </p>
-    <p>Ataskaitiniu laikotarpiu buvo aptartos galimos bendrųjų kompetencijų fiksavimo studijų metu galimybės. Darbo grupės sušauktose focus grupėse dalyvavo daug skirtingų VU SA organų atstovų, siekiant kuo efektyviau ir tiksliau apibrėžti organizacijoje įgyjamas kompetencijas. Surinktų duomenų dėka buvo atlikta popaskaitinių veiklų analizė, išsigrynintos dažniausiai įgaunamos kompetencijos. Šiuo metu darbo grupė toliau analizuoja vieną priimtiniausių ir populiariausių kompetencijų užskaitymo būdą – Digital badge (liet. skaitmeninių ženkliukų) diegimą. </p>
+    <p>Ataskaitiniu laikotarpiu buvo aptartos galimos bendrųjų kompetencijų fiksavimo studijų metu galimybės. Darbo grupės sušauktose <i>focus</i> grupėse dalyvavo daug skirtingų VU SA organų atstovų, siekiant kuo efektyviau ir tiksliau apibrėžti organizacijoje įgyjamas kompetencijas. Surinktų duomenų dėka buvo atlikta popaskaitinių veiklų analizė, išsigrynintos dažniausiai įgaunamos kompetencijos. Šiuo metu darbo grupė toliau analizuoja vieną priimtiniausių ir populiariausių kompetencijų užskaitymo būdą – Digital badge (liet. skaitmeninių ženkliukų) diegimą. </p>
 
             
     <br>
@@ -395,7 +395,7 @@
         
     <h3 style="text-align: center;">VU Sveikatinimo ir sporto koncepcijos darbo grupė </h3>
     <p><i>Studentų atstovai – Justas Kvedaravičius ir Klaudijus Melys. </i></p>
-    <p>Ataskaitiniu laikotarpiu sudaryta VU Sveikatos ir sporto koncepcijos darbo grupė rengė sporto ir sveikatingumo koncepciją #SveikasUniversitetas, kurioje, atsižvelgiant į Universiteto strateginį veiklos planą, buvo numatyti ilgalaikiai tikslai, skirti siekti bendruomenei teikiamų sveikatinimo ir sveikatingumo paslaugų gerinimo. Darbo grupėje teikti pasiūlymai dėl keliamų tikslų ir uždavinių, kuriais remiantis būtų sudarytos galimybės gerinti sporto infrastruktūrą, teikiamų paslaugų kokybę ir įvairovę, bei suteikiamos galimybės galimybės gerinti fizinę ir psichikos sveikatos būklę bendruomenės nariams. </p>
+    <p>Ataskaitiniu laikotarpiu sudaryta VU Sveikatos ir sporto koncepcijos darbo grupė rengė sporto ir sveikatingumo koncepciją <i>#SveikasUniversitetas</i>, kurioje, atsižvelgiant į Universiteto strateginį veiklos planą, buvo numatyti ilgalaikiai tikslai, skirti siekti bendruomenei teikiamų sveikatinimo ir sveikatingumo paslaugų gerinimo. Darbo grupėje teikti pasiūlymai dėl keliamų tikslų ir uždavinių, kuriais remiantis būtų sudarytos galimybės gerinti sporto infrastruktūrą, teikiamų paslaugų kokybę ir įvairovę, bei suteikiamos galimybės galimybės gerinti fizinę ir psichikos sveikatos būklę bendruomenės nariams. </p>
 
             
     <br>
@@ -416,7 +416,7 @@
     <br>
     <h3 style="text-align: center;">Lietuvos jaunimo organizacijų taryba (LiJOT) </h3>
     <p>Lietuvos jaunimo organizacijų taryba (LiJOT) – organizacija, atstovaujanti jaunimui ir jaunimo organizacijoms Lietuvos mastu. </p>    
-    <p>Ataskaitiniu laikotarpiu buvo parengtas bendras pasiūlymų paketas su LMS ir LiJOT švietimo priemonių planui (plačiau – Raštai). Taip pat dalyvauta LiJOT diskusijoje Youth Lublin Triangle forum. </p>            
+    <p>Ataskaitiniu laikotarpiu buvo parengtas bendras pasiūlymų paketas su LMS ir LiJOT švietimo priemonių planui (plačiau – Raštai). Taip pat dalyvauta LiJOT diskusijoje <i>Youth Lublin Triangle forum.</i> </p>            
     <br>
 
     <br>
@@ -451,7 +451,7 @@
 
     <br>
     <h3 style="text-align: center;">VU Sveikatos ir sporto centras  </h3>
-    <p>Ataskaitiniu laikotarpiu VU SA kartu su VU Sveikatos ir sporto centru dalyvavo #SveikasUniversitetas koncepcijos rengimo darbo grupės veikloje, kurioje buvo atlikta dabartinė Universitete teikiamų sporto, sveikatinimo ir sveikatingumo paslaugų bei infrastruktūros analizė. Kartu bendradarbiauta viešai dalijantis informacija, kuria studentai kviesti dalyvauti sporto ir sveikatinimo užsiėmimuose bei bendruomenės renginiuose, ir skatinti puoselėti savo sveikatingumą. </p>
+    <p>Ataskaitiniu laikotarpiu VU SA kartu su VU Sveikatos ir sporto centru dalyvavo <i>#SveikasUniversitetas</i> koncepcijos rengimo darbo grupės veikloje, kurioje buvo atlikta dabartinė Universitete teikiamų sporto, sveikatinimo ir sveikatingumo paslaugų bei infrastruktūros analizė. Kartu bendradarbiauta viešai dalijantis informacija, kuria studentai kviesti dalyvauti sporto ir sveikatinimo užsiėmimuose bei bendruomenės renginiuose, ir skatinti puoselėti savo sveikatingumą. </p>
     <br>
 
     <br>
@@ -480,7 +480,7 @@
 
     <br>
     <h3 style="text-align: center;">UNICA  </h3>
-    <p>UNICA – tarptautinis universitetų tinklas, jungiantis Europos valstybių sostinėse esančius universitetus. Į šio tinklo veiklą VU SA įsitraukė šiais metais, dalyvaudama studentų konferencijoje – „Darbo rinka po COVID-19, nuotolinis mokymasis ir tolimesnė socialinė universitetų įtaka“. Konferencijos metu organizacijos atstovai klausėsi paskaitų šia tema, dalyvavo diskusijose su kitų universitetų studentais. Taip pat, šiuo metu, jau ruošiamasi ateinančių metų konferencijai – „Keičiame savo universitetą post-COVID-19 amžiuje“. Šiuo metu VU SA delegatų komanda yra ruošiama konferencijoje vyksiančioms diskusijoms liepos mėnesį.  </p>
+    <p>UNICA – tarptautinis universitetų tinklas, jungiantis Europos valstybių sostinėse esančius universitetus. Į šio tinklo veiklą VU SA įsitraukė šiais metais, dalyvaudama studentų konferencijoje – <i>„Darbo rinka po COVID-19, nuotolinis mokymasis ir tolimesnė socialinė universitetų įtaka“</i>. Konferencijos metu organizacijos atstovai klausėsi paskaitų šia tema, dalyvavo diskusijose su kitų universitetų studentais. Taip pat, šiuo metu, jau ruošiamasi ateinančių metų konferencijai – <i>„Keičiame savo universitetą post-COVID-19 amžiuje“.</i> Šiuo metu VU SA delegatų komanda yra ruošiama konferencijoje vyksiančioms diskusijoms liepos mėnesį.  </p>
     <br>
 
 
@@ -509,7 +509,7 @@
 
 
     <h3 style="text-align: center;"><i>Kreipimasis dėl kalio jodido tablečių išdavimo Vilniaus mieste gyvenantiems jauniems asmenims (2020 m. lapkričio 3 d.)  </i></h3>
-    <p>VU SA kartu su Vilniaus jaunimo organizacijų sąjunga „Apskritasis stalas“ (VJOSAS) bei Lietuvos medicinos studentų asociacija (LiMSA) teikė raštą LR Sveikatos apsaugos ministrui ir Vilniaus miesto savivaldybės administracijos direktoriui siūlant išplėsti kalio jodido tablečių gavėjų ratą, į šį įtraukiant Vilniuje besimokančius moksleivius ir studentus. Pagal pirminį planą, šios tabletės buvo išduodamos tik asmenims, deklaravusiems savo gyvenamąją vietą Vilniaus miesto savivaldybės teritorijoje. Baltarusijoje veikiančios Astravo atominės elektrinės avarijos atveju tokia tvarka iškeltų grėsmę jauniems asmenims, kurie nėra deklaravę savo gyvenamosios vietos minimoje teritorijoje. Buvo pateiktas siūlymas, kad asmuo galėtų gauti kalio jodido tabletes, jeigu pateiktų galiojantį elektroninį mokinio pažymėjimą, Lietuvos studento pažymėjimą arba darbdavio išduotą pažymą. </p>
+    <p>VU SA kartu su Vilniaus jaunimo organizacijų sąjunga „Apskritasis stalas“ (VJOS AS) bei Lietuvos medicinos studentų asociacija (LiMSA) teikė raštą LR Sveikatos apsaugos ministrui ir Vilniaus miesto savivaldybės administracijos direktoriui siūlant išplėsti kalio jodido tablečių gavėjų ratą, į šį įtraukiant Vilniuje besimokančius moksleivius ir studentus. Pagal pirminį planą, šios tabletės buvo išduodamos tik asmenims, deklaravusiems savo gyvenamąją vietą Vilniaus miesto savivaldybės teritorijoje. Baltarusijoje veikiančios Astravo atominės elektrinės avarijos atveju tokia tvarka iškeltų grėsmę jauniems asmenims, kurie nėra deklaravę savo gyvenamosios vietos minimoje teritorijoje. Buvo pateiktas siūlymas, kad asmuo galėtų gauti kalio jodido tabletes, jeigu pateiktų galiojantį elektroninį mokinio pažymėjimą, Lietuvos studento pažymėjimą arba darbdavio išduotą pažymą. </p>
 
     <h3 style="text-align: center;"><i>Dėl XVIII Vyriausybės nuostatų švietimo srityje (2020 m. lapkričio 23 d.)  </i></h3>
     <p>XVIII LR Vyriausybei pradedant darbus, VU SA teikė siūlymus Vyriausybės formuojamoms programinėms nuostatoms švietimo srityje. Siekiant užtikrinti tvarių sprendimų priėmimą aukštojo mokslo sferoje, buvo suformuluoti siūlymai aukštojo mokslo finansavimo, socialinės dimensijos stiprinimo, studijų kokybės gerinimo, studentų paramos sistemos plėtimo, mokymosi visą gyvenimą užtikrinimo, aukštųjų mokyklų tinklo optimizavimo ir kitais klausimais. Keli iš VU SA pasiūlymų, randamų dokumente, yra nemokamo aukštojo mokslo pasirengusiems studijuoti studentams užtikrinimas, dėmesys socialiai pažeidžiamoms bei individualius poreikius turinčioms studentų grupėms stojimo į aukštąsias mokyklas bei paslaugų plėtojimo kontekste, studentų įtraukimo į mokslinę veiklą priemonių sukūrimas, persikvalifikavimo galimybių prieinamumo didinimas bei siūlymas socialinės padėties atskyrimas nuo akademinių rezultatų skiriant socialines stipendijas. </p>

@@ -65,6 +65,10 @@
   text-align:center;
 }
 
+hr {
+  border-top: 10px solid #bd2835;
+}
+
 
 .dropdown-content a:hover {background-color: #f1f1f1;}
 .dropdown:hover .dropdown-content {display: block;}

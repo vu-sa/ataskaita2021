@@ -10,7 +10,8 @@
 </head>
 <section id="draugai">
     <div class = image>
-        <h1>Draugai</h1>
+    <p style="font-size: 50px; text-align: center;text-shadow: 2px 2px 8px #bf9da0;"><b>
+DRAUGAI</b></p>
         <div>
         <img width="200" height=auto src="/img/arqus.png">
         <img width="200" height=auto src="/img/SISP_prierasas_logo_pozityvas.png">

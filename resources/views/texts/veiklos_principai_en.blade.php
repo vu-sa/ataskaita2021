@@ -20,7 +20,7 @@
 
 
 <section id="apie-vusa" title="Apie VUSA">
-    <p style="font-size: 50px; text-align: center;"><b>Principles of Activity</b></p>
+    <p style="font-size: 50px; text-align: center;text-shadow: 2px 2px 8px #bf9da0;"><b>Principles of Activity</b></p>
     <!--<div class="row">
     <div class="column">
         <img width= "100%" height=auto src="/img/VU-SA-schema-02.png">

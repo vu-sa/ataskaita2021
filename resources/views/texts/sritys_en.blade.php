@@ -15,4 +15,5 @@
                 @include('texts.sritys.en.tf')
                 @include('texts.sritys.en.tspmi')
                 @include('texts.sritys.en.vm')
+                @include('texts.sritys.en.dag')
 </section>

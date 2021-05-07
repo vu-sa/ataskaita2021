@@ -23,7 +23,7 @@ th, td {
 </style>
 </head>
 <section id="savivalda">
-    <p style="font-size: 50px; text-align: center;"><b>
+    <p style="font-size: 50px; text-align: center;text-shadow: 2px 2px 8px #bf9da0;"><b>
     STRONG STUDENTS' SELF-GOVERNMENT</b></p>
     
     <h3 style="text-align: center;">VU SR Projects </h3>

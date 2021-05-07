@@ -1,5 +1,5 @@
 <section id="mvp">
-    <p style="font-size: 50px; text-align: center;"><b>
+    <p style="font-size: 50px; text-align: center;text-shadow: 2px 2px 8px #bf9da0;"><b>
     VU SR 2020–2021 ANNUAL ACTIVITY PLAN IMPLEMENTATION </b></p>
     <p>
     VU SR 2020–2021 annual activity plan sets out the main goals and objectives for the year. The plan is intended to establish VU SR operational priorities that would create a unified and open environment for independent self-development of students in the Vilnius University community and systemically prepare for the implementation of these activities.  
