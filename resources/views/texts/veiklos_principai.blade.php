@@ -116,7 +116,8 @@
             3 daugiau po VU SA ŠA steigiamosios konferencijos. Parlamentą sudaro organizacijos prezidentas, atstovavimo funkciją 
             vykdančių VU SA padalinių pirmininkai ir po du atstovus iš kiekvieno padalinio. Parlamento darbą organizuoja pirmininkas. </p>
             <p>
-            Ataskaitiniu laikotarpiu įvyko 13 VU SA Parlamento posėdžių (iš jų – 5 elektroniniai ir 8 nuotoliniai). </p>
+            Ataskaitiniu laikotarpiu įvyko 14 VU SA Parlamento posėdžių (iš jų – 6 elektroniniai ir 8 nuotoliniai).
+            </p>
             <p>
             Parlamente buvo patvirtinti VU SA CHGF, VU SA ŠA, programos „Be etikečių“, programos „Sąžiningai“ nuostatai, 
             sudarytos laikinosios darbo grupės pozicijoms dėl lygių galimybių, dėl pagalbos COVID-19 pandemijos metu, dėl 
