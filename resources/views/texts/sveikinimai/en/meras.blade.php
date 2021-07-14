@@ -70,7 +70,7 @@
 
 <!-- Trigger/Open The Modal -->
 <button id="myBtn9" class="myBtn">
-<img src="/img/sveikinimai/R_Simasius.jpeg" alt="R_Simasius.jpeg" style="width:100%">
+<img src="/img/sveikinimai/R_Simasius.jpg" alt="R_Simasius.jpg" style="width:100%">
 </button>
 <!-- The Modal -->
 <div id="myModal9" class="modal">

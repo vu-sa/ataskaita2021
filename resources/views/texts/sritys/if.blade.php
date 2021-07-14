@@ -99,7 +99,7 @@
 
 
     
-<img src="/img/padeka/if.png" alt="VU SA IF" style="width:100%">
+<img src="/img/padeka/if.jpg" alt="VU SA IF" style="width:100%">
   </div>
 </div>
 

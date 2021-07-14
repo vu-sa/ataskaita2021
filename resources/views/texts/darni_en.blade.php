@@ -64,7 +64,7 @@ The work of the program this year was focused on the creation of content for soc
 During the reference period, the activities of the <i>“Sąžiningai”</i> program were reviewed and refined in order to make it more relevant and useful for students. During the discussions, 3 activities of the program were refined: monitoring of reports, education of students and implementation of a culture of academic ethics at the University. 
 </p>
 <div class="image">
-<img src="/img/pkp_logo/saziningai.png" alt="saziningai.png" style="width:50%;">
+<img src="/img/pkp_logo/saziningai.jpg" alt="saziningai.jpg" style="width:50%;">
 </div>
 
 <br>
@@ -221,7 +221,7 @@ SMMS (Students - for pupils, pupils - for students) - a project implemented by V
 This year, the project activities were carried out remotely. Back in November, a conversation about SMMS with Ieva and Mantas Bartuševičius was organized in the START FM studio. In January-February, the project curators conducted class lessons for senior students, where the SMMS project, Vilnius University, VU and VU SR after-school activities were presented and questions asked by students were answered. Since the beginning of February, presentations of VU units have been launched on SMMS social networks, during which, every week, SMMS curators presented more and more VU units. On May 15th  there will be a remote SMMS camp, after which students will have the opportunity to ask questions of concern to SMMS tutors on the Discord platform. 
 </p>
 <div class="image">
-<img src="/img/pkp_logo/SMMS logo.png" alt="smms logo" style="width:50%;">
+<img src="/img/pkp_logo/SMMS logo.jpg" alt="smms logo" style="width:50%;">
 </div>
 <br>
 <br>

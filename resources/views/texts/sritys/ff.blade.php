@@ -99,7 +99,7 @@
 
 
     
-<img src="/img/padeka/ff.png" alt="FF" style="width:100%">
+<img src="/img/padeka/ff.jpg" alt="FF" style="width:100%">
   </div>
 </div>
 

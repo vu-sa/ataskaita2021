@@ -99,7 +99,7 @@
 
 
     
-<img src="/img/padeka/tspmi.png" alt="VU SA TSPMI" style="width:100%">
+<img src="/img/padeka/tspmi.jpg" alt="VU SA TSPMI" style="width:100%">
   </div>
 </div>
 

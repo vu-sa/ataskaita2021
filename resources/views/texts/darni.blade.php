@@ -127,7 +127,7 @@ programos veiklos kryptis: atsiskaitymų stebėjimas, studentų švietimas bei a
 kultūros diegimas Universitete. 
 </p>
 <div class="image">
-<img src="/img/pkp_logo/saziningai.png" alt="saziningai.png" style="width:50%;">
+<img src="/img/pkp_logo/saziningai.jpg" alt="saziningai.jpg" style="width:50%;">
 </div>
 
 <br>
@@ -337,7 +337,7 @@ Gegužės mėn. 15 d. vyks nuotolinė <i>SMMS</i> stovykla, o po jos mokslei
 rūpimus klausimus <i>SMMS</i> kuratoriams <i>Discord</i> platformoje. 
 </p>
 <div class="image">
-<img src="/img/pkp_logo/SMMS logo.png" alt="smms logo" style="width:50%;">
+<img src="/img/pkp_logo/SMMS logo.jpg" alt="smms logo" style="width:50%;">
 </div>
 <br>
 <br>

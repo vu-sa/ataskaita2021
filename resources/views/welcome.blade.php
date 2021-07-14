@@ -53,7 +53,7 @@
 }
 
 .showcase{
-  background-image:url('/img/MAIN_COVER.png');
+  background-image:url('/img/MAIN_COVER.jpg');
   background-size:cover;
   background-position:center top;
   height:100vh;

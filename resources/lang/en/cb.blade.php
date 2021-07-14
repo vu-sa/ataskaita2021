@@ -99,7 +99,7 @@
 
 
     
-<img src="/img/padeka/mif1.png" alt="Centrinis Biuras" style="width:100%">
+<img src="/img/padeka/mif1.jpg" alt="Centrinis Biuras" style="width:100%">
   </div>
 </div>
 

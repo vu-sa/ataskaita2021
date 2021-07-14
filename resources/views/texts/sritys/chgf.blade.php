@@ -99,7 +99,7 @@
 
 
     
-<img src="/img/padeka/chgf.png" alt="VU SA CHGF" style="width:100%">
+<img src="/img/padeka/chgf.jpg" alt="VU SA CHGF" style="width:100%">
   </div>
 </div>
 

@@ -99,7 +99,7 @@
 
 
     
-<img src="/img/padeka/evaf.png" alt="EVAF" style="width:100%">
+<img src="/img/padeka/evaf.jpg" alt="EVAF" style="width:100%">
   </div>
 </div>
 
